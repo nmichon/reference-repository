@@ -1,19 +1,18 @@
 module Grid5000
-  class Node
-    
-    attr_reader :properties, :uri
+  class Node    
+    attr_reader :properties, :cluster
     
     MAPPINGS = {
-      "oar-2.4" => Proc.new{ |uri, cluster, properties|
+      "oar-2.4" => Proc.new{ |cluster, properties|
         # see https://www.grid5000.fr/mediawiki/index.php/OAR2_properties for list of properties
         h = {}
         main_network_adapter = properties["network_adapters"].find{|na| na['enabled'] == true}
         h['host']            = main_network_adapter['network_address']
-        raise MissingProperty, "Node #{uri} has no network_address" unless h['host']
+        raise MissingProperty, "Node has no network_address" unless h['host']
         h['ip']              = main_network_adapter['ip']
-        raise MissingProperty, "Node #{uri} has no IP" unless h['ip']
-        h['cluster']         = cluster['uid']
-        h['nodemodel']       = cluster['model']
+        raise MissingProperty, "Node has no IP" unless h['ip']
+        h['cluster']         = cluster.properties['uid']
+        h['nodemodel']       = cluster.properties['model']
         h['switch']          = main_network_adapter['switch']
         h['besteffort']      = properties['supported_job_types']['besteffort'] ? "YES" : "NO"
         h['deploy']          = properties['supported_job_types']['deploy'] ? "YES" : "NO"
@@ -41,15 +40,14 @@ module Grid5000
       }
     }
     
-    def initialize(uri, cluster, properties)
-      @uri        = uri
+    def initialize(cluster, properties)
       @cluster = cluster
       @properties = properties
     end
     
     def export(destination = "oar-2.4")
-      if MAPPING.has_key?(destination)
-        MAPPING[destination].call(properties)
+      if MAPPINGS.has_key?(destination)
+        MAPPINGS[destination].call(cluster, properties)
       else
         raise ArgumentError, "Unsupported destination for export: #{destination.inspect}"
       end
