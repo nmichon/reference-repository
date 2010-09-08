@@ -14,18 +14,39 @@ task :environment do
   @logger.level = Logger.const_get((ENV['DEBUG'] || 'INFO').upcase)
 end
 
+namespace :g5k do
+  desc "Generates the JSON files based on the generators, for all sites.\nUse SITE=<SITE-NAME> if you wish to restrict the generation to a specific site.\nUse DRY=1 to simulate the execution."
+  task :generate => :environment do
+    site = if ENV['SITE']
+      ENV['SITE']
+    else
+      "*"
+    end
+    command = "#{File.join(ROOT_DIR, "generators", "grid5000")} #{File.join(ROOT_DIR, "generators", "input", "#{site}.rb")} #{File.join(ROOT_DIR, "generators", "input", "#{site}.yaml")}"
+    command << " -s" if ENV['DRY'] && ENV['DRY'] != "0"
+    @logger.info "Executing #{command.inspect}..."
+    system command
+  end
+end
 
 # TESTS
-# deletion: 4cfebf92e9cce05315782b51e05eded4ab4f0e7e..7d2648eaad7dbbc6f1fdb9c0279f73d374ccd47a
-# update: 7d2648eaad7dbbc6f1fdb9c0279f73d374ccd47a..bb528643003757942521942eaeab74b15aaa976d
-# add: be9f7338b9750ce675447c13d172157992041ec1..7dc3a4101a657230b7ad0534025a7ca93c905411
-# all be9f7338b9750ce675447c13d172157992041ec1..7d2648eaad7dbbc6f1fdb9c0279f73d374ccd47a
+# Deletion: 
+#   rake -s oar:generate FROM=4cfebf92e9cce05315782b51e05eded4ab4f0e7e TO=7d2648eaad7dbbc6f1fdb9c0279f73d374ccd47a
+#
+# Update: 
+# rake -s oar:generate FROM=7d2648eaad7dbbc6f1fdb9c0279f73d374ccd47a TO=bb528643003757942521942eaeab74b15aaa976d
+#
+# Add: 
+#   rake -s oar:generate FROM=be9f7338b9750ce675447c13d172157992041ec1 TO=7dc3a4101a657230b7ad0534025a7ca93c905411
+#
+# All: 
+#   rake -s oar:generate FROM=be9f7338b9750ce675447c13d172157992041ec1 TO=7d2648eaad7dbbc6f1fdb9c0279f73d374ccd47a
+# 
 namespace :oar do
-  desc "Generates the oarnodesetting lines to update OAR database after a change in the reference repository"
+  desc "Generates the oaradmin lines to update the OAR database after a change in the reference repository.\nUse FROM=<SHA-ID> and TO=<SHA-ID> to specify the starting and ending commits.\nUse -s to suppress the 'in directory' announcement."
   task :generate => :environment do
-    @logger.info "You MUST already have pushed your changes to the master reference repository. Abort if it's not the case."
     if ENV['FROM'].nil? || ENV['FROM'].empty?
-      @logger.fatal "You MUST specify a commit id from where to start using the FROM=xx argument." 
+      @logger.fatal "You MUST specify a commit id from where to start using the FROM=<SHA-ID> argument. Ex: rake -s oar:generate FROM=be9f7338b9750ce675447c13d172157992041ec1 TO=7dc3a4101a657230b7ad0534025a7ca93c905411 2> /dev/null" 
       exit(1)
     end
     ENV['TO'] ||= 'HEAD'
