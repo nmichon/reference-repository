@@ -1,0 +1,137 @@
+--- 
+itruc-1: 
+  bios: 
+    version: 1.2.0
+    vendor: Dell Inc.
+    release_date: 10/18/2006
+  block_devices: 
+    sda: 
+      model: WDC WD1600JS-75N
+      size: "312500000"
+      rev: 2E04
+      vendor: "ATA     "
+    hda: 
+      model: TEAC CD-ROM CD-224E-N
+      size: "8388604"
+    sdb: 
+      model: "Virtual  Floppy "
+      size: "0"
+      rev: "123 "
+      vendor: "Dell    "
+  network_interfaces: 
+    bmc: 
+      mac: 00:18:8b:46:5e:fe
+      ip: 172.17.240.1
+    eth0: 
+      switch_name: c6509-grid
+      switch_port: Unknown
+      mac: 00:15:c5:eb:ae:3e
+      ip: 172.16.240.1
+    eth1: 
+      mac: 00:15:c5:eb:ae:40
+  chassis: 
+    serial_number: 9456M2J
+    manufacturer: Dell Inc.
+    product_name: PowerEdge 1950
+itruc-2: 
+  bios: 
+    version: 1.2.0
+    vendor: Dell Inc.
+    release_date: 10/18/2006
+  block_devices: 
+    sda: 
+      model: WDC WD1600JS-75N
+      size: "312500000"
+      rev: 2E04
+      vendor: "ATA     "
+    hda: 
+      model: TEAC CD-ROM CD-224E-N
+      size: "8388604"
+    sdb: 
+      model: "Virtual  Floppy "
+      size: "0"
+      rev: "123 "
+      vendor: "Dell    "
+  network_interfaces: 
+    bmc: 
+      mac: 00:18:8b:46:5b:03
+      ip: 172.17.240.2
+    eth0: 
+      switch_name: c6509-grid
+      switch_port: Unknown
+      mac: 00:15:c5:eb:a9:fb
+      ip: 172.16.240.2
+    eth1: 
+      mac: 00:15:c5:eb:a9:fd
+  chassis: 
+    serial_number: 1456M2J
+    manufacturer: Dell Inc.
+    product_name: PowerEdge 1950
+itruc-3: 
+  bios: 
+    version: 1.2.0
+    vendor: Dell Inc.
+    release_date: 10/18/2006
+  block_devices: 
+    sda: 
+      model: WDC WD1600JS-75N
+      size: "312500000"
+      rev: 2E04
+      vendor: "ATA     "
+    hda: 
+      model: TEAC CD-ROM CD-224E-N
+      size: "8388604"
+    sdb: 
+      model: "Virtual  Floppy "
+      size: "0"
+      rev: "123 "
+      vendor: "Dell    "
+  network_interfaces: 
+    bmc: 
+      mac: 00:18:8b:46:5a:e2
+      ip: 172.17.240.3
+    eth0: 
+      switch_name: c6509-grid
+      switch_port: Unknown
+      mac: 00:15:c5:eb:a7:c9
+      ip: 172.16.240.3
+    eth1: 
+      mac: 00:15:c5:eb:a7:cb
+  chassis: 
+    serial_number: 7456M2J
+    manufacturer: Dell Inc.
+    product_name: PowerEdge 1950
+itruc-4: 
+  bios: 
+    version: 1.2.0
+    vendor: Dell Inc.
+    release_date: 10/18/2006
+  block_devices: 
+    sda: 
+      model: WDC WD1600JS-75N
+      size: "312500000"
+      rev: 2E04
+      vendor: "ATA     "
+    hda: 
+      model: TEAC CD-ROM CD-224E-N
+      size: "8388604"
+    sdb: 
+      model: "Virtual  Floppy "
+      size: "0"
+      rev: "123 "
+      vendor: "Dell    "
+  network_interfaces: 
+    bmc: 
+      mac: 00:18:8b:46:5a:de
+      ip: 172.17.240.4
+    eth0: 
+      switch_name: c6509-grid
+      switch_port: Unknown
+      mac: 00:15:c5:eb:aa:05
+      ip: 172.16.240.4
+    eth1: 
+      mac: 00:15:c5:eb:aa:07
+  chassis: 
+    serial_number: 2456M2J
+    manufacturer: Dell Inc.
+    product_name: PowerEdge 1950
