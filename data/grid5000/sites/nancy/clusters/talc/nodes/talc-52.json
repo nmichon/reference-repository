@@ -68,10 +68,10 @@
     }
   ],
   "operating_system": {
-    "kernel": null,
-    "name": null,
+    "kernel": "3.2.0-4-amd64",
+    "name": "debian",
     "release": "Squeeze",
-    "version": null
+    "version": 7.2
   },
   "processor": {
     "cache_l1": null,

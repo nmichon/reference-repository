@@ -1,7 +1,11 @@
 --- 
 talc-57: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -56,8 +60,12 @@ talc-63:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -108,8 +116,12 @@ talc-54:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -160,8 +172,12 @@ talc-60:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -212,8 +228,12 @@ talc-48:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -260,8 +280,12 @@ talc-48:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-8: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -312,8 +336,12 @@ talc-8:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-51: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -364,8 +392,12 @@ talc-51:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-39: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -416,8 +448,12 @@ talc-39:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-45: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -468,8 +504,12 @@ talc-45:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-5: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -520,8 +560,12 @@ talc-5:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-36: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -572,8 +616,12 @@ talc-36:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-42: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -624,8 +672,12 @@ talc-42:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-2: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -680,8 +732,12 @@ talc-129:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -728,8 +784,12 @@ talc-129:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-33: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -780,8 +840,12 @@ talc-33:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-27: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -836,8 +900,12 @@ talc-132:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -888,8 +956,12 @@ talc-126:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -940,8 +1012,12 @@ talc-24:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -988,8 +1064,12 @@ talc-24:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-30: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1040,8 +1120,12 @@ talc-30:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-18: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1092,8 +1176,12 @@ talc-18:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-123: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1148,8 +1236,12 @@ talc-117:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1196,8 +1288,12 @@ talc-117:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-21: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1252,8 +1348,12 @@ talc-15:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1304,8 +1404,12 @@ talc-120:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1356,8 +1460,12 @@ talc-108:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1408,8 +1516,12 @@ talc-97:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1460,8 +1572,12 @@ talc-114:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1508,8 +1624,12 @@ talc-114:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-12: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1564,8 +1684,12 @@ talc-94:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1612,8 +1736,12 @@ talc-94:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-111: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1668,8 +1796,12 @@ talc-88:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1716,8 +1848,12 @@ talc-88:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-105: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1772,8 +1908,12 @@ talc-79:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1820,8 +1960,12 @@ talc-79:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-85: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1876,8 +2020,12 @@ talc-102:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1924,8 +2072,12 @@ talc-102:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-91: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -1976,8 +2128,12 @@ talc-91:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-82: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2028,8 +2184,12 @@ talc-82:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-76: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2084,8 +2244,12 @@ talc-67:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2132,8 +2296,12 @@ talc-67:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-73: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2188,8 +2356,12 @@ talc-64:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2236,8 +2408,12 @@ talc-64:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-70: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2292,8 +2468,12 @@ talc-58:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2340,8 +2520,12 @@ talc-58:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-61: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2392,8 +2576,12 @@ talc-61:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-49: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2444,8 +2632,12 @@ talc-49:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-9: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2496,8 +2688,12 @@ talc-9:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-55: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2552,8 +2748,12 @@ talc-46:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2600,8 +2800,12 @@ talc-46:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-6: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2652,8 +2856,12 @@ talc-6:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-52: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2704,8 +2912,12 @@ talc-52:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-3: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2760,8 +2972,12 @@ talc-37:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2812,8 +3028,12 @@ talc-43:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2864,8 +3084,12 @@ talc-34:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2912,8 +3136,12 @@ talc-34:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-40: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -2964,8 +3192,12 @@ talc-40:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-28: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3020,8 +3252,12 @@ talc-133:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3068,8 +3304,12 @@ talc-133:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-127: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3124,8 +3364,12 @@ talc-31:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3176,8 +3420,12 @@ talc-19:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3224,8 +3472,12 @@ talc-19:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-25: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3276,8 +3528,12 @@ talc-25:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-130: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3332,8 +3588,12 @@ talc-124:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3380,8 +3640,12 @@ talc-124:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-118: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3432,8 +3696,12 @@ talc-118:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-16: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3488,8 +3756,12 @@ talc-22:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3536,8 +3808,12 @@ talc-22:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-121: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3592,8 +3868,12 @@ talc-115:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3640,8 +3920,12 @@ talc-115:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-13: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3692,8 +3976,12 @@ talc-13:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-109: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3744,8 +4032,12 @@ talc-109:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-98: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3796,8 +4088,12 @@ talc-98:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-10: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3852,8 +4148,12 @@ talc-106:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3904,8 +4204,12 @@ talc-95:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -3952,8 +4256,12 @@ talc-95:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-112: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4008,8 +4316,12 @@ talc-89:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4060,8 +4372,12 @@ talc-103:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4108,8 +4424,12 @@ talc-103:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-92: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4160,8 +4480,12 @@ talc-92:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-86: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4216,8 +4540,12 @@ talc-100:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4264,8 +4592,12 @@ talc-100:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-77: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4316,8 +4648,12 @@ talc-77:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-83: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4368,8 +4704,12 @@ talc-83:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-74: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4424,8 +4764,12 @@ talc-80:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4476,8 +4820,12 @@ talc-68:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4528,8 +4876,12 @@ talc-71:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4576,8 +4928,12 @@ talc-71:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-59: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4632,8 +4988,12 @@ talc-65:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4684,8 +5044,12 @@ talc-56:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4736,8 +5100,12 @@ talc-62:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4784,8 +5152,12 @@ talc-62:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-47: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4836,8 +5208,12 @@ talc-47:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-7: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4888,8 +5264,12 @@ talc-7:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-53: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4940,8 +5320,12 @@ talc-53:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-44: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -4996,8 +5380,12 @@ talc-4:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5048,8 +5436,12 @@ talc-50:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5096,8 +5488,12 @@ talc-50:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-38: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5148,8 +5544,12 @@ talc-38:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-41: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5200,8 +5600,12 @@ talc-41:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-29: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5256,8 +5660,12 @@ talc-1:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5308,8 +5716,12 @@ talc-35:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5356,8 +5768,12 @@ talc-35:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-134: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5408,8 +5824,12 @@ talc-134:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-128: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5460,8 +5880,12 @@ talc-128:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-26: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5512,8 +5936,12 @@ talc-26:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-32: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5568,8 +5996,12 @@ talc-131:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5620,8 +6052,12 @@ talc-125:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5668,8 +6104,12 @@ talc-125:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-119: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5724,8 +6164,12 @@ talc-23:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5772,8 +6216,12 @@ talc-23:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-17: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5828,8 +6276,12 @@ talc-122:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5880,8 +6332,12 @@ talc-116:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5928,8 +6384,12 @@ talc-116:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-14: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -5980,8 +6440,12 @@ talc-14:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-99: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6036,8 +6500,12 @@ talc-20:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6088,8 +6556,12 @@ talc-113:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6136,8 +6608,12 @@ talc-113:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-11: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6188,8 +6664,12 @@ talc-11:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-107: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6244,8 +6724,12 @@ talc-96:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6296,8 +6780,12 @@ talc-110:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6348,8 +6836,12 @@ talc-87:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6396,8 +6888,12 @@ talc-87:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-104: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6452,8 +6948,12 @@ talc-93:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6500,8 +7000,12 @@ talc-93:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-84: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6552,8 +7056,12 @@ talc-84:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-101: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6604,8 +7112,12 @@ talc-101:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-90: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6660,8 +7172,12 @@ talc-78:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6712,8 +7228,12 @@ talc-81:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6764,8 +7284,12 @@ talc-69:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6816,8 +7340,12 @@ talc-75:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6864,8 +7392,12 @@ talc-75:
     vendor: Phoenix Technologies LTD
     version: V1.05
 talc-72: 
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
@@ -6920,8 +7452,12 @@ talc-66:
     platform_type: x86_64
     smt_size: 8
     smp_size: 2
-  supported_job_types: 
-    virtual: ivt
+  supported_job_types:
+    virtual: ivt 
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    name: debian
+    version: 7.2
   chassis:
     manufacturer: TYAN Computer Corporation
     product_name: S5393
