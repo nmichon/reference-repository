@@ -1,0 +1,6567 @@
+--- 
+talc-57: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-63: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:1f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:1e
+      mountable: true
+      ip: 172.16.66.63
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-54: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:99
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:98
+      mountable: true
+      ip: 172.16.66.54
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-60: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c5:9d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c5:9c
+      mountable: true
+      ip: 172.16.66.60
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-48: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c5:63
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c5:62
+      mountable: true
+      ip: 172.16.66.48
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-8: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:d9
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:d8
+      mountable: true
+      ip: 172.16.66.8
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-51: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:77
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:76
+      mountable: true
+      ip: 172.16.66.51
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-39: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:11
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:10
+      mountable: true
+      ip: 172.16.66.39
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-45: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:cb
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:ca
+      mountable: true
+      ip: 172.16.66.45
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-5: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:ef
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:ee
+      mountable: true
+      ip: 172.16.66.5
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-36: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-42: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:2f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:2e
+      mountable: true
+      ip: 172.16.66.42
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-2: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:dd
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:dc
+      mountable: true
+      ip: 172.16.66.2
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-129: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:75
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:74
+      mountable: true
+      ip: 172.16.66.129
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-33: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:11
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:10
+      mountable: true
+      ip: 172.16.66.33
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-27: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-132: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:27
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:26
+      mountable: true
+      ip: 172.16.66.132
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-126: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:93
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:92
+      mountable: true
+      ip: 172.16.66.126
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-24: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:f7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:f6
+      mountable: true
+      ip: 172.16.66.24
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-30: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b7:8b:3b
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b7:8b:3a
+      mountable: true
+      ip: 172.16.66.30
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-18: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:d3
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:d2
+      mountable: true
+      ip: 172.16.66.18
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-123: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:bf:d6
+      mountable: true
+      ip: 172.16.66.123
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-117: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:55
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:54
+      mountable: true
+      ip: 172.16.66.117
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-21: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:31
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:30
+      mountable: true
+      ip: 172.16.66.21
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-15: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b8:b7:df
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b8:b7:de
+      mountable: true
+      ip: 172.16.66.15
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 12631785472
+  bios: 
+    release_date: 04/24/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-120: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:8d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:8c
+      mountable: true
+      ip: 172.16.66.120
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-108: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:13
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:12
+      mountable: true
+      ip: 172.16.66.108
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-97: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:9c:a3
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:9c:a2
+      mountable: true
+      ip: 172.16.66.97
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-114: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:23
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:22
+      mountable: true
+      ip: 172.16.66.114
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-12: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-94: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:9b:b5
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:9b:b4
+      mountable: true
+      ip: 172.16.66.94
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 14749900800
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-111: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:9d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:9c
+      mountable: true
+      ip: 172.16.66.111
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-88: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:57
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:56
+      mountable: true
+      ip: 172.16.66.88
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-105: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:9b:a3
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:9b:a2
+      mountable: true
+      ip: 172.16.66.105
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-79: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:a3
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:a2
+      mountable: true
+      ip: 172.16.66.79
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-85: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-102: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:9c:93
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:9c:92
+      mountable: true
+      ip: 172.16.66.102
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-91: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:f1
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:f0
+      mountable: true
+      ip: 172.16.66.91
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-82: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:0f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:0e
+      mountable: true
+      ip: 172.16.66.82
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-76: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-67: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:b5
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:b4
+      mountable: true
+      ip: 172.16.66.67
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-73: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-64: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c5:db
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c5:da
+      mountable: true
+      ip: 172.16.66.64
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-70: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:2b
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:2a
+      mountable: true
+      ip: 172.16.66.70
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-58: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:9d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:9c
+      mountable: true
+      ip: 172.16.66.58
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-61: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c5:95
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c5:94
+      mountable: true
+      ip: 172.16.66.61
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-49: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:a5
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:a4
+      mountable: true
+      ip: 172.16.66.49
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-9: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-55: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:8d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:8c
+      mountable: true
+      ip: 172.16.66.55
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-46: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c5:c7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c5:c6
+      mountable: true
+      ip: 172.16.66.46
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-6: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:ff
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:fe
+      mountable: true
+      ip: 172.16.66.6
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-52: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:81
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:80
+      mountable: true
+      ip: 172.16.66.52
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-3: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:b9
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:b8
+      mountable: true
+      ip: 172.16.66.3
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-37: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:93
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:92
+      mountable: true
+      ip: 172.16.66.37
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-43: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:b1
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:b0
+      mountable: true
+      ip: 172.16.66.43
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-34: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:13
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:12
+      mountable: true
+      ip: 172.16.66.34
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-40: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d9
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d8
+      mountable: true
+      ip: 172.16.66.40
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: V54O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-28: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:cb
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:ca
+      mountable: true
+      ip: 172.16.66.28
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-133: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c6:0d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c6:0c
+      mountable: true
+      ip: 172.16.66.133
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-127: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:6f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:6e
+      mountable: true
+      ip: 172.16.66.127
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-31: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:3f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:3e
+      mountable: true
+      ip: 172.16.66.31
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-19: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:39
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:38
+      mountable: true
+      ip: 172.16.66.19
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-25: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:b7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:b6
+      mountable: true
+      ip: 172.16.66.25
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-130: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:73
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:72
+      mountable: true
+      ip: 172.16.66.130
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-124: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:6d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:6c
+      mountable: true
+      ip: 172.16.66.124
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-118: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:c5
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:c4
+      mountable: true
+      ip: 172.16.66.118
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-16: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-22: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:87
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:86
+      mountable: true
+      ip: 172.16.66.22
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-121: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-115: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:29
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:28
+      mountable: true
+      ip: 172.16.66.115
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-13: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:37
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:36
+      mountable: true
+      ip: 172.16.66.13
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-109: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:bf:91
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:bf:90
+      mountable: true
+      ip: 172.16.66.109
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-98: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:56:99
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:56:98
+      mountable: true
+      ip: 172.16.66.98
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-10: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:c3
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:c2
+      mountable: true
+      ip: 172.16.66.10
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-106: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b8:b7:ef
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b8:b7:ee
+      mountable: true
+      ip: 172.16.66.106
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 04/24/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-95: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b8:b8:51
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b8:b8:50
+      mountable: true
+      ip: 172.16.66.95
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 04/24/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-112: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:47
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:46
+      mountable: true
+      ip: 172.16.66.112
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-89: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:2d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:2c
+      mountable: true
+      ip: 172.16.66.89
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-103: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:56:97
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:56:96
+      mountable: true
+      ip: 172.16.66.103
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-92: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-86: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:1b
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:1a
+      mountable: true
+      ip: 172.16.66.86
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-100: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:56:93
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:56:92
+      mountable: true
+      ip: 172.16.66.100
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-77: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-83: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-74: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:85
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:84
+      mountable: true
+      ip: 172.16.66.74
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-80: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:55
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:54
+      mountable: true
+      ip: 172.16.66.80
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-68: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:ad
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:ac
+      mountable: true
+      ip: 172.16.66.68
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-71: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c5:dd
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c5:dc
+      mountable: true
+      ip: 172.16.66.71
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-59: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:33
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:32
+      mountable: true
+      ip: 172.16.66.59
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-65: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:69
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:68
+      mountable: true
+      ip: 172.16.66.65
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-56: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d1
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d0
+      mountable: true
+      ip: 172.16.66.56
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-62: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:9d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:9c
+      mountable: true
+      ip: 172.16.66.62
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-47: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:83
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:82
+      mountable: true
+      ip: 172.16.66.47
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-7: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-53: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:bf:f5
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:bf:f4
+      mountable: true
+      ip: 172.16.66.53
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-44: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:75
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:74
+      mountable: true
+      ip: 172.16.66.44
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-4: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:75
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:74
+      mountable: true
+      ip: 172.16.66.4
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-50: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c5:6d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c5:6c
+      mountable: true
+      ip: 172.16.66.50
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-38: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:47
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:46
+      mountable: true
+      ip: 172.16.66.38
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-41: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:23
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:22
+      mountable: true
+      ip: 172.16.66.41
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-29: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:a7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:a6
+      mountable: true
+      ip: 172.16.66.29
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 14749900800
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-1: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:a5
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:a4
+      mountable: true
+      ip: 172.16.66.1
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-35: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:c7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:c6
+      mountable: true
+      ip: 172.16.66.35
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-134: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:ab
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:aa
+      mountable: true
+      ip: 172.16.66.134
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: JPFO
+      size: 320072933376
+      device: sda
+      model: Hitachi HDS72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-128: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:6f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:6e
+      mountable: true
+      ip: 172.16.66.128
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16867946496
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-26: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-32: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-131: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:6d
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:6c
+      mountable: true
+      ip: 172.16.66.131
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-125: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:73
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:72
+      mountable: true
+      ip: 172.16.66.125
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-119: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:8f:cb
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:8f:ca
+      mountable: true
+      ip: 172.16.66.119
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-23: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:ab
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:aa
+      mountable: true
+      ip: 172.16.66.23
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-17: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:13
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:12
+      mountable: true
+      ip: 172.16.66.17
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-122: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c3:d5
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c3:d4
+      mountable: true
+      ip: 172.16.66.122
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-116: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:bd
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:bc
+      mountable: true
+      ip: 172.16.66.116
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-14: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-99: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:56:95
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:56:94
+      mountable: true
+      ip: 172.16.66.99
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-20: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:91
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:90
+      mountable: true
+      ip: 172.16.66.20
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-113: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:5f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:5e
+      mountable: true
+      ip: 172.16.66.113
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-11: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:bf:83
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:bf:82
+      mountable: true
+      ip: 172.16.66.11
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-107: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c4:77
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c4:76
+      mountable: true
+      ip: 172.16.66.107
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-96: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:9c:17
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:9c:16
+      mountable: true
+      ip: 172.16.66.96
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-110: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:bf:97
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:bf:96
+      mountable: true
+      ip: 172.16.66.110
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-87: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c1:af
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c1:ae
+      mountable: true
+      ip: 172.16.66.87
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-104: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-93: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:9c:1f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:9c:1e
+      mountable: true
+      ip: 172.16.66.93
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-84: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:41
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:40
+      mountable: true
+      ip: 172.16.66.84
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-101: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b5:56:91
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b5:56:90
+      mountable: true
+      ip: 172.16.66.101
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-90: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c0:e7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c0:e6
+      mountable: true
+      ip: 172.16.66.90
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-78: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c2:77
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c2:76
+      mountable: true
+      ip: 172.16.66.78
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-81: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b1:c3:7f
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b1:c3:7e
+      mountable: true
+      ip: 172.16.66.81
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-69: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:dd
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:dc
+      mountable: true
+      ip: 172.16.66.69
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-75: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c0:97
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c0:96
+      mountable: true
+      ip: 172.16.66.75
+      interface: Ethernet
+  block_devices: 
+    sda: 
+      rev: GM3O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDP72503
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-72: 
+  supported_job_types: 
+    virtual: ivt
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:bf:d7
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:bf:d6
+      mountable: true
+      ip: 172.16.66.57
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+talc-66: 
+  architecture: 
+    platform_type: x86_64
+    smt_size: 8
+    smp_size: 2
+  supported_job_types: 
+    virtual: ivt
+  network_interfaces: 
+    eth1: 
+      enabled: false
+      driver: e1000e
+      mounted: false
+      management: false
+      mac: 00:e0:81:b2:c4:c3
+      mountable: false
+      interface: Ethernet
+    eth0: 
+      enabled: true
+      rate: 1000000000
+      driver: e1000e
+      mounted: true
+      management: false
+      mac: 00:e0:81:b2:c4:c2
+      mountable: true
+      ip: 172.16.66.66
+      interface: Ethernet
+  processor: 
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    cache_l3: 0
+    cache_l2: 6291456
+    cache_l1d: 32768
+    cache_l1i: 32768
+    version: L5420
+    instruction_set: x86-64
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+  block_devices: 
+    sda: 
+      rev: ST2O
+      size: 320072933376
+      device: sda
+      model: Hitachi HDT72103
+  main_memory: 
+    ram_size: 16868012032
+  bios: 
+    release_date: 08/21/2009
+    vendor: Phoenix Technologies LTD
+    version: V1.05
