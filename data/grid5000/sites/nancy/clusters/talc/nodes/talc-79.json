@@ -54,36 +54,6 @@
       "version": "BCM5721"
     },
     {
-      "device": "ib0",
-      "driver": null,
-      "enabled": null,
-      "guid": null,
-      "interface": null,
-      "ip": null,
-      "ip6": null,
-      "management": null,
-      "mountable": null,
-      "mounted": null,
-      "network_address": "talc-79-ib0.nancy.grid5000.fr",
-      "rate": null,
-      "switch": "stalcib",
-      "vendor": "Mellanox",
-      "version": null
-    },
-    {
-      "device": "ib1",
-      "driver": null,
-      "enabled": null,
-      "guid": null,
-      "interface": null,
-      "management": null,
-      "mountable": null,
-      "mounted": null,
-      "rate": null,
-      "vendor": "Mellanox",
-      "version": null
-    },
-    {
       "device": "bmc",
       "enabled": true,
       "interface": "Ethernet",
