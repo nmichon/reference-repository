@@ -102,7 +102,6 @@ site :nancy do |site_uid|
         }]
 
         chassis({
-          :serial       => lookup('talc_generated', node_uid, 'chassis', 'serial_number'),
           :name         => lookup('talc_generated', node_uid, 'chassis', 'product_name'),
           :manufacturer => lookup('talc_generated', node_uid, 'chassis', 'manufacturer')
         })

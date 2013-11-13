@@ -2,6 +2,9 @@
 talc-57: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -55,6 +58,9 @@ talc-63:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -104,6 +110,9 @@ talc-54:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -153,6 +162,9 @@ talc-60:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -202,6 +214,9 @@ talc-48:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -247,6 +262,9 @@ talc-48:
 talc-8: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -296,6 +314,9 @@ talc-8:
 talc-51: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -345,6 +366,9 @@ talc-51:
 talc-39: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -394,6 +418,9 @@ talc-39:
 talc-45: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -443,6 +470,9 @@ talc-45:
 talc-5: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -492,6 +522,9 @@ talc-5:
 talc-36: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -541,6 +574,9 @@ talc-36:
 talc-42: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -590,6 +626,9 @@ talc-42:
 talc-2: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -643,6 +682,9 @@ talc-129:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -688,6 +730,9 @@ talc-129:
 talc-33: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -737,6 +782,9 @@ talc-33:
 talc-27: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -790,6 +838,9 @@ talc-132:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -839,6 +890,9 @@ talc-126:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -888,6 +942,9 @@ talc-24:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -933,6 +990,9 @@ talc-24:
 talc-30: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -982,6 +1042,9 @@ talc-30:
 talc-18: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1031,6 +1094,9 @@ talc-18:
 talc-123: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1084,6 +1150,9 @@ talc-117:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -1129,6 +1198,9 @@ talc-117:
 talc-21: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1182,6 +1254,9 @@ talc-15:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -1231,6 +1306,9 @@ talc-120:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -1280,6 +1358,9 @@ talc-108:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -1329,6 +1410,9 @@ talc-97:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -1378,6 +1462,9 @@ talc-114:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -1423,6 +1510,9 @@ talc-114:
 talc-12: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1476,6 +1566,9 @@ talc-94:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -1521,6 +1614,9 @@ talc-94:
 talc-111: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1574,6 +1670,9 @@ talc-88:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -1619,6 +1718,9 @@ talc-88:
 talc-105: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1672,6 +1774,9 @@ talc-79:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -1717,6 +1822,9 @@ talc-79:
 talc-85: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1770,6 +1878,9 @@ talc-102:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -1815,6 +1926,9 @@ talc-102:
 talc-91: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1864,6 +1978,9 @@ talc-91:
 talc-82: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1913,6 +2030,9 @@ talc-82:
 talc-76: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -1966,6 +2086,9 @@ talc-67:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -2011,6 +2134,9 @@ talc-67:
 talc-73: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2064,6 +2190,9 @@ talc-64:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -2109,6 +2238,9 @@ talc-64:
 talc-70: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2162,6 +2294,9 @@ talc-58:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -2207,6 +2342,9 @@ talc-58:
 talc-61: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2256,6 +2394,9 @@ talc-61:
 talc-49: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2305,6 +2446,9 @@ talc-49:
 talc-9: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2354,6 +2498,9 @@ talc-9:
 talc-55: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2407,6 +2554,9 @@ talc-46:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -2452,6 +2602,9 @@ talc-46:
 talc-6: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2501,6 +2654,9 @@ talc-6:
 talc-52: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2550,6 +2706,9 @@ talc-52:
 talc-3: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2603,6 +2762,9 @@ talc-37:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -2652,6 +2814,9 @@ talc-43:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -2701,6 +2866,9 @@ talc-34:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -2746,6 +2914,9 @@ talc-34:
 talc-40: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2795,6 +2966,9 @@ talc-40:
 talc-28: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2848,6 +3022,9 @@ talc-133:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -2893,6 +3070,9 @@ talc-133:
 talc-127: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -2946,6 +3126,9 @@ talc-31:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -2995,6 +3178,9 @@ talc-19:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -3040,6 +3226,9 @@ talc-19:
 talc-25: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3089,6 +3278,9 @@ talc-25:
 talc-130: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3142,6 +3334,9 @@ talc-124:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -3187,6 +3382,9 @@ talc-124:
 talc-118: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3236,6 +3434,9 @@ talc-118:
 talc-16: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3289,6 +3490,9 @@ talc-22:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -3334,6 +3538,9 @@ talc-22:
 talc-121: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3387,6 +3594,9 @@ talc-115:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -3432,6 +3642,9 @@ talc-115:
 talc-13: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3481,6 +3694,9 @@ talc-13:
 talc-109: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3530,6 +3746,9 @@ talc-109:
 talc-98: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3579,6 +3798,9 @@ talc-98:
 talc-10: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3632,6 +3854,9 @@ talc-106:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -3681,6 +3906,9 @@ talc-95:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -3726,6 +3954,9 @@ talc-95:
 talc-112: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3779,6 +4010,9 @@ talc-89:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -3828,6 +4062,9 @@ talc-103:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -3873,6 +4110,9 @@ talc-103:
 talc-92: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3922,6 +4162,9 @@ talc-92:
 talc-86: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -3975,6 +4218,9 @@ talc-100:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -4020,6 +4266,9 @@ talc-100:
 talc-77: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4069,6 +4318,9 @@ talc-77:
 talc-83: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4118,6 +4370,9 @@ talc-83:
 talc-74: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4171,6 +4426,9 @@ talc-80:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -4220,6 +4478,9 @@ talc-68:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -4269,6 +4530,9 @@ talc-71:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -4314,6 +4578,9 @@ talc-71:
 talc-59: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4367,6 +4634,9 @@ talc-65:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -4416,6 +4686,9 @@ talc-56:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -4465,6 +4738,9 @@ talc-62:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -4510,6 +4786,9 @@ talc-62:
 talc-47: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4559,6 +4838,9 @@ talc-47:
 talc-7: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4608,6 +4890,9 @@ talc-7:
 talc-53: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4657,6 +4942,9 @@ talc-53:
 talc-44: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4710,6 +4998,9 @@ talc-4:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -4759,6 +5050,9 @@ talc-50:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -4804,6 +5098,9 @@ talc-50:
 talc-38: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4853,6 +5150,9 @@ talc-38:
 talc-41: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4902,6 +5202,9 @@ talc-41:
 talc-29: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -4955,6 +5258,9 @@ talc-1:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5004,6 +5310,9 @@ talc-35:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5049,6 +5358,9 @@ talc-35:
 talc-134: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5098,6 +5410,9 @@ talc-134:
 talc-128: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5147,6 +5462,9 @@ talc-128:
 talc-26: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5196,6 +5514,9 @@ talc-26:
 talc-32: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5249,6 +5570,9 @@ talc-131:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5298,6 +5622,9 @@ talc-125:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5343,6 +5670,9 @@ talc-125:
 talc-119: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5396,6 +5726,9 @@ talc-23:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -5441,6 +5774,9 @@ talc-23:
 talc-17: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5494,6 +5830,9 @@ talc-122:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5543,6 +5882,9 @@ talc-116:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5588,6 +5930,9 @@ talc-116:
 talc-14: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5637,6 +5982,9 @@ talc-14:
 talc-99: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5690,6 +6038,9 @@ talc-20:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -5739,6 +6090,9 @@ talc-113:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5784,6 +6138,9 @@ talc-113:
 talc-11: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5833,6 +6190,9 @@ talc-11:
 talc-107: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -5886,6 +6246,9 @@ talc-96:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -5935,6 +6298,9 @@ talc-110:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -5984,6 +6350,9 @@ talc-87:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -6029,6 +6398,9 @@ talc-87:
 talc-104: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -6082,6 +6454,9 @@ talc-93:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -6127,6 +6502,9 @@ talc-93:
 talc-84: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -6176,6 +6554,9 @@ talc-84:
 talc-101: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -6225,6 +6606,9 @@ talc-101:
 talc-90: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -6278,6 +6662,9 @@ talc-78:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -6327,6 +6714,9 @@ talc-81:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -6376,6 +6766,9 @@ talc-69:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
@@ -6425,6 +6818,9 @@ talc-75:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   processor: 
     clock_speed: 2500000000
     vendor: Intel
@@ -6470,6 +6866,9 @@ talc-75:
 talc-72: 
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   architecture: 
     platform_type: x86_64
     smt_size: 8
@@ -6523,6 +6922,9 @@ talc-66:
     smp_size: 2
   supported_job_types: 
     virtual: ivt
+  chassis:
+    manufacturer: TYAN Computer Corporation
+    product_name: S5393
   network_interfaces: 
     eth1: 
       enabled: false
