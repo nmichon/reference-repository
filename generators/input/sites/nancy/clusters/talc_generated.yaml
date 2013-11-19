@@ -4655,8 +4655,8 @@ talc-72:
   block_devices: 
     sda: 
       size: 320072933376
-      model: Hitachi HDT72103
-      rev: ST2O
+      model: Hitachi HDT72503
+      rev: GM30
       device: sda
   architecture: 
     smp_size: 2
@@ -4687,8 +4687,8 @@ talc-72:
       mounted: true
       enabled: true
       rate: 1000000000
-      mac: 00:e0:81:b2:bf:d6
-      ip: 172.16.66.57
+      mac: 00:e0:81:b2:c1:ce
+      ip: 172.16.66.72
       mountable: true
       driver: e1000e
       interface: Ethernet
@@ -4696,7 +4696,7 @@ talc-72:
     eth1: 
       mounted: false
       enabled: false
-      mac: 00:e0:81:b2:bf:d7
+      mac: 00:e0:81:b2:c1cf
       mountable: false
       driver: e1000e
       interface: Ethernet
@@ -5607,8 +5607,8 @@ talc-27:
   block_devices: 
     sda: 
       size: 320072933376
-      model: Hitachi HDT72103
-      rev: ST2O
+      model: Hitachi HDT72503
+      rev: GM30
       device: sda
   architecture: 
     smp_size: 2
@@ -5639,8 +5639,8 @@ talc-27:
       mounted: true
       enabled: true
       rate: 1000000000
-      mac: 00:e0:81:b2:bf:d6
-      ip: 172.16.66.57
+      mac: 00:e0:81:b2:bf:d2
+      ip: 172.16.66.27
       mountable: true
       driver: e1000e
       interface: Ethernet
@@ -5648,7 +5648,7 @@ talc-27:
     eth1: 
       mounted: false
       enabled: false
-      mac: 00:e0:81:b2:bf:d7
+      mac: 00:e0:81:b2:bf:d3
       mountable: false
       driver: e1000e
       interface: Ethernet
