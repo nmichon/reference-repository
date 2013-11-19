@@ -4655,8 +4655,8 @@ talc-72:
   block_devices: 
     sda: 
       size: 320072933376
-      model: Hitachi HDT72503
-      rev: GM30
+      model: Hitachi HDP72503
+      rev: GM3O
       device: sda
   architecture: 
     smp_size: 2
@@ -4696,7 +4696,7 @@ talc-72:
     eth1: 
       mounted: false
       enabled: false
-      mac: 00:e0:81:b2:c1cf
+      mac: 00:e0:81:b2:c1:cf
       mountable: false
       driver: e1000e
       interface: Ethernet
@@ -4711,8 +4711,8 @@ talc-104:
   block_devices: 
     sda: 
       size: 320072933376
-      model: Hitachi HDT72103
-      rev: ST2O
+      model: Hitachi HDP72503
+      rev: GM3O
       device: sda
   architecture: 
     smp_size: 2
@@ -4743,8 +4743,8 @@ talc-104:
       mounted: true
       enabled: true
       rate: 1000000000
-      mac: 00:e0:81:b2:bf:d6
-      ip: 172.16.66.57
+      mac: 00:e0:81:b5:9c:48
+      ip: 172.16.66.104
       mountable: true
       driver: e1000e
       interface: Ethernet
@@ -4752,7 +4752,7 @@ talc-104:
     eth1: 
       mounted: false
       enabled: false
-      mac: 00:e0:81:b2:bf:d7
+      mac: 00:e0:81:b5:9c:49
       mountable: false
       driver: e1000e
       interface: Ethernet
@@ -5607,8 +5607,8 @@ talc-27:
   block_devices: 
     sda: 
       size: 320072933376
-      model: Hitachi HDT72503
-      rev: GM30
+      model: Hitachi HDP72503
+      rev: GM3O
       device: sda
   architecture: 
     smp_size: 2
@@ -6391,8 +6391,8 @@ talc-85:
   block_devices: 
     sda: 
       size: 320072933376
-      model: Hitachi HDT72103
-      rev: ST2O
+      model: Hitachi HDP72103
+      rev: GM3O
       device: sda
   architecture: 
     smp_size: 2
@@ -6423,8 +6423,8 @@ talc-85:
       mounted: true
       enabled: true
       rate: 1000000000
-      mac: 00:e0:81:b2:bf:d6
-      ip: 172.16.66.57
+      mac: 00:e0:81:b2:c4:b2
+      ip: 172.16.66.85
       mountable: true
       driver: e1000e
       interface: Ethernet
@@ -6432,7 +6432,7 @@ talc-85:
     eth1: 
       mounted: false
       enabled: false
-      mac: 00:e0:81:b2:bf:d7
+      mac: 00:e0:81:b2:c4:b3
       mountable: false
       driver: e1000e
       interface: Ethernet
