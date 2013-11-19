@@ -6391,7 +6391,7 @@ talc-85:
   block_devices: 
     sda: 
       size: 320072933376
-      model: Hitachi HDP72103
+      model: Hitachi HDP72503
       rev: GM3O
       device: sda
   architecture: 
