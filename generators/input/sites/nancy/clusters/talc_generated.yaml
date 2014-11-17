@@ -1,24 +1,24 @@
---- 
-talc-55: 
-  bios: 
+---
+talc-55:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -29,13 +29,13 @@ talc-55:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -45,7 +45,7 @@ talc-55:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:8d
@@ -53,28 +53,28 @@ talc-55:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-3: 
-  bios: 
+talc-3:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -85,13 +85,13 @@ talc-3:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -101,7 +101,7 @@ talc-3:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:b9
@@ -109,28 +109,28 @@ talc-3:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-61: 
-  bios: 
+talc-61:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -141,13 +141,13 @@ talc-61:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -157,7 +157,7 @@ talc-61:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:95
@@ -165,28 +165,28 @@ talc-61:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-49: 
-  bios: 
+talc-49:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -197,13 +197,13 @@ talc-49:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -213,7 +213,7 @@ talc-49:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:a5
@@ -221,28 +221,28 @@ talc-49:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-52: 
-  bios: 
+talc-52:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -253,13 +253,13 @@ talc-52:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -269,7 +269,7 @@ talc-52:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:81
@@ -277,28 +277,28 @@ talc-52:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-46: 
-  bios: 
+talc-46:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -309,13 +309,13 @@ talc-46:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -325,7 +325,7 @@ talc-46:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:c7
@@ -333,28 +333,28 @@ talc-46:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-37: 
-  bios: 
+talc-37:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -365,13 +365,13 @@ talc-37:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -381,7 +381,7 @@ talc-37:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:93
@@ -389,28 +389,28 @@ talc-37:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-43: 
-  bios: 
+talc-43:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -421,13 +421,13 @@ talc-43:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -437,7 +437,7 @@ talc-43:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:b1
@@ -445,28 +445,28 @@ talc-43:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-34: 
-  bios: 
+talc-34:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -477,13 +477,13 @@ talc-34:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -493,7 +493,7 @@ talc-34:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:13
@@ -501,28 +501,28 @@ talc-34:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-40: 
-  bios: 
+talc-40:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72503
       rev: V54O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -533,13 +533,13 @@ talc-40:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -549,7 +549,7 @@ talc-40:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d9
@@ -557,28 +557,28 @@ talc-40:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-28: 
-  bios: 
+talc-28:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -589,13 +589,13 @@ talc-28:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -605,7 +605,7 @@ talc-28:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:cb
@@ -613,28 +613,28 @@ talc-28:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-31: 
-  bios: 
+talc-31:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -645,13 +645,13 @@ talc-31:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -661,7 +661,7 @@ talc-31:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:3f
@@ -669,28 +669,28 @@ talc-31:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-19: 
-  bios: 
+talc-19:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -701,13 +701,13 @@ talc-19:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -717,7 +717,7 @@ talc-19:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:39
@@ -725,28 +725,28 @@ talc-19:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-25: 
-  bios: 
+talc-25:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -757,13 +757,13 @@ talc-25:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -773,7 +773,7 @@ talc-25:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:b7
@@ -781,28 +781,28 @@ talc-25:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-22: 
-  bios: 
+talc-22:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -813,13 +813,13 @@ talc-22:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -829,7 +829,7 @@ talc-22:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:87
@@ -837,28 +837,28 @@ talc-22:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-16: 
-  bios: 
+talc-16:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -869,13 +869,13 @@ talc-16:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -885,7 +885,7 @@ talc-16:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:8d
@@ -893,28 +893,28 @@ talc-16:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 14749900800
-talc-98: 
-  bios: 
+talc-98:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -925,13 +925,13 @@ talc-98:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -941,7 +941,7 @@ talc-98:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:56:99
@@ -949,28 +949,28 @@ talc-98:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-13: 
-  bios: 
+talc-13:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -981,13 +981,13 @@ talc-13:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -997,7 +997,7 @@ talc-13:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:37
@@ -1005,28 +1005,28 @@ talc-13:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-127: 
-  bios: 
+talc-127:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1037,13 +1037,13 @@ talc-127:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1053,7 +1053,7 @@ talc-127:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:6f
@@ -1061,28 +1061,28 @@ talc-127:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-95: 
-  bios: 
+talc-95:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 04/24/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1093,13 +1093,13 @@ talc-95:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1109,7 +1109,7 @@ talc-95:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b8:b8:51
@@ -1117,28 +1117,28 @@ talc-95:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-133: 
-  bios: 
+talc-133:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1149,13 +1149,13 @@ talc-133:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1165,7 +1165,7 @@ talc-133:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c6:0d
@@ -1173,28 +1173,28 @@ talc-133:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-89: 
-  bios: 
+talc-89:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1205,13 +1205,13 @@ talc-89:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1221,7 +1221,7 @@ talc-89:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:2d
@@ -1229,28 +1229,28 @@ talc-89:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-10: 
-  bios: 
+talc-10:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1261,13 +1261,13 @@ talc-10:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1277,7 +1277,7 @@ talc-10:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:c3
@@ -1285,28 +1285,28 @@ talc-10:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-124: 
-  bios: 
+talc-124:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1317,13 +1317,13 @@ talc-124:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1333,7 +1333,7 @@ talc-124:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:6d
@@ -1341,28 +1341,28 @@ talc-124:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-92: 
-  bios: 
+talc-92:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1373,13 +1373,13 @@ talc-92:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1389,7 +1389,7 @@ talc-92:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:d5
@@ -1397,28 +1397,28 @@ talc-92:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-130: 
-  bios: 
+talc-130:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1429,13 +1429,13 @@ talc-130:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1445,7 +1445,7 @@ talc-130:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:73
@@ -1453,28 +1453,28 @@ talc-130:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-118: 
-  bios: 
+talc-118:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1485,13 +1485,13 @@ talc-118:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1501,7 +1501,7 @@ talc-118:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:c5
@@ -1509,28 +1509,28 @@ talc-118:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-86: 
-  bios: 
+talc-86:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1541,13 +1541,13 @@ talc-86:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1557,7 +1557,7 @@ talc-86:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:1b
@@ -1565,28 +1565,28 @@ talc-86:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-109: 
-  bios: 
+talc-109:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1597,13 +1597,13 @@ talc-109:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1613,7 +1613,7 @@ talc-109:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:bf:91
@@ -1621,28 +1621,28 @@ talc-109:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-77: 
-  bios: 
+talc-77:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1653,13 +1653,13 @@ talc-77:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1669,7 +1669,7 @@ talc-77:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:8f:b7
@@ -1677,28 +1677,28 @@ talc-77:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-115: 
-  bios: 
+talc-115:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1709,13 +1709,13 @@ talc-115:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1725,7 +1725,7 @@ talc-115:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:29
@@ -1733,28 +1733,28 @@ talc-115:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-83: 
-  bios: 
+talc-83:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1765,13 +1765,13 @@ talc-83:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1781,7 +1781,7 @@ talc-83:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d7
@@ -1789,28 +1789,28 @@ talc-83:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-121: 
-  bios: 
+talc-121:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1821,13 +1821,13 @@ talc-121:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1837,7 +1837,7 @@ talc-121:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d7
@@ -1845,28 +1845,28 @@ talc-121:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-112: 
-  bios: 
+talc-112:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1877,13 +1877,13 @@ talc-112:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1893,7 +1893,7 @@ talc-112:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:47
@@ -1901,28 +1901,28 @@ talc-112:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-80: 
-  bios: 
+talc-80:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1933,13 +1933,13 @@ talc-80:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -1949,7 +1949,7 @@ talc-80:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:55
@@ -1957,28 +1957,28 @@ talc-80:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-68: 
-  bios: 
+talc-68:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -1989,13 +1989,13 @@ talc-68:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2005,7 +2005,7 @@ talc-68:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:ad
@@ -2013,28 +2013,28 @@ talc-68:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-106: 
-  bios: 
+talc-106:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 04/24/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2045,13 +2045,13 @@ talc-106:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2061,7 +2061,7 @@ talc-106:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b8:b7:ef
@@ -2069,28 +2069,28 @@ talc-106:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-74: 
-  bios: 
+talc-74:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2101,13 +2101,13 @@ talc-74:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2117,7 +2117,7 @@ talc-74:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:85
@@ -2125,28 +2125,28 @@ talc-74:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-65: 
-  bios: 
+talc-65:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2157,13 +2157,13 @@ talc-65:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2173,7 +2173,7 @@ talc-65:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:69
@@ -2181,28 +2181,28 @@ talc-65:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-7: 
-  bios: 
+talc-7:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2213,13 +2213,13 @@ talc-7:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2229,7 +2229,7 @@ talc-7:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d7
@@ -2237,28 +2237,28 @@ talc-7:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-103: 
-  bios: 
+talc-103:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2269,13 +2269,13 @@ talc-103:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2285,7 +2285,7 @@ talc-103:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:56:97
@@ -2293,28 +2293,28 @@ talc-103:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-71: 
-  bios: 
+talc-71:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2325,13 +2325,13 @@ talc-71:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2341,7 +2341,7 @@ talc-71:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:dd
@@ -2349,28 +2349,28 @@ talc-71:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-59: 
-  bios: 
+talc-59:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2381,13 +2381,13 @@ talc-59:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2397,7 +2397,7 @@ talc-59:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:33
@@ -2405,28 +2405,28 @@ talc-59:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-62: 
-  bios: 
+talc-62:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2437,13 +2437,13 @@ talc-62:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2453,7 +2453,7 @@ talc-62:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:9d
@@ -2461,28 +2461,28 @@ talc-62:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-4: 
-  bios: 
+talc-4:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2493,13 +2493,13 @@ talc-4:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2509,7 +2509,7 @@ talc-4:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:75
@@ -2517,28 +2517,28 @@ talc-4:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-100: 
-  bios: 
+talc-100:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2549,13 +2549,13 @@ talc-100:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2565,7 +2565,7 @@ talc-100:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:56:93
@@ -2573,28 +2573,28 @@ talc-100:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-56: 
-  bios: 
+talc-56:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2605,13 +2605,13 @@ talc-56:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2621,7 +2621,7 @@ talc-56:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d1
@@ -2629,28 +2629,28 @@ talc-56:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-1: 
-  bios: 
+talc-1:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2661,13 +2661,13 @@ talc-1:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2677,7 +2677,7 @@ talc-1:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:a5
@@ -2685,28 +2685,28 @@ talc-1:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-47: 
-  bios: 
+talc-47:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2717,13 +2717,13 @@ talc-47:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2733,7 +2733,7 @@ talc-47:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:83
@@ -2741,28 +2741,28 @@ talc-47:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-53: 
-  bios: 
+talc-53:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2773,13 +2773,13 @@ talc-53:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2789,7 +2789,7 @@ talc-53:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:bf:f5
@@ -2797,28 +2797,28 @@ talc-53:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-44: 
-  bios: 
+talc-44:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2829,13 +2829,13 @@ talc-44:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2845,7 +2845,7 @@ talc-44:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:75
@@ -2853,28 +2853,28 @@ talc-44:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-50: 
-  bios: 
+talc-50:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2885,13 +2885,13 @@ talc-50:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2901,7 +2901,7 @@ talc-50:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:6d
@@ -2909,28 +2909,28 @@ talc-50:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-38: 
-  bios: 
+talc-38:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2941,13 +2941,13 @@ talc-38:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -2957,7 +2957,7 @@ talc-38:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:47
@@ -2965,28 +2965,28 @@ talc-38:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-29: 
-  bios: 
+talc-29:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -2997,13 +2997,13 @@ talc-29:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3013,7 +3013,7 @@ talc-29:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:a7
@@ -3021,28 +3021,28 @@ talc-29:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 14749900800
-talc-35: 
-  bios: 
+talc-35:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3053,13 +3053,13 @@ talc-35:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3069,7 +3069,7 @@ talc-35:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:c7
@@ -3077,28 +3077,28 @@ talc-35:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-41: 
-  bios: 
+talc-41:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3109,13 +3109,13 @@ talc-41:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3125,7 +3125,7 @@ talc-41:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:23
@@ -3133,84 +3133,28 @@ talc-41:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-32: 
-  bios: 
+talc-32:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
-      size: 320072933376
-      model: Hitachi HDT72103
-      rev: ST2O
-      device: sda
-  architecture: 
-    smp_size: 2
-    smt_size: 8
-    platform_type: x86_64
-  operating_system: 
-    kernel: 3.2.0-4-amd64
-    version: 7.2
-    name: debian
-  processor: 
-    cache_l1i: 32768
-    cache_l1d: 32768
-    clock_speed: 2500000000
-    vendor: Intel
-    model: Intel Xeon
-    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
-    version: L5420
-    cache_l2: 6291456
-    cache_l3: 0
-    instruction_set: x86-64
-  chassis: 
-    product_name: S5393
-    manufacturer: TYAN Computer Corporation
-  supported_job_types: 
-    virtual: ivt
-  network_interfaces: 
-    eth0: 
-      mounted: true
-      enabled: true
-      rate: 1000000000
-      mac: 00:e0:81:b2:bf:d6
-      ip: 172.16.66.57
-      mountable: true
-      driver: e1000e
-      interface: Ethernet
-      management: false
-    eth1: 
-      mounted: false
-      enabled: false
-      mac: 00:e0:81:b2:bf:d7
-      mountable: false
-      driver: e1000e
-      interface: Ethernet
-      management: false
-  main_memory: 
-    ram_size: 16868012032
-talc-26: 
-  bios: 
-    vendor: Phoenix Technologies LTD
-    version: V1.05
-    release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3221,13 +3165,69 @@ talc-26:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
+      mounted: true
+      enabled: true
+      rate: 1000000000
+      mac: 00:e0:81:b2:c2:50
+      ip: 172.16.66.32
+      mountable: true
+      driver: e1000e
+      interface: Ethernet
+      management: false
+    eth1:
+      mounted: false
+      enabled: false
+      mac: 00:e0:81:b2:c2:51
+      mountable: false
+      driver: e1000e
+      interface: Ethernet
+      management: false
+  main_memory:
+    ram_size: 16868012032
+talc-26:
+  bios:
+    vendor: Phoenix Technologies LTD
+    version: V1.05
+    release_date: 08/21/2009
+  block_devices:
+    sda:
+      size: 320072933376
+      model: Hitachi HDP72503
+      rev: GM3O
+      device: sda
+  architecture:
+    smp_size: 2
+    smt_size: 8
+    platform_type: x86_64
+  operating_system:
+    kernel: 3.2.0-4-amd64
+    version: 7.2
+    name: debian
+  processor:
+    cache_l1i: 32768
+    cache_l1d: 32768
+    clock_speed: 2500000000
+    vendor: Intel
+    model: Intel Xeon
+    other_description: Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz
+    version: L5420
+    cache_l2: 6291456
+    cache_l3: 0
+    instruction_set: x86-64
+  chassis:
+    product_name: S5393
+    manufacturer: TYAN Computer Corporation
+  supported_job_types:
+    virtual: ivt
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3237,7 +3237,7 @@ talc-26:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:9d
@@ -3245,28 +3245,28 @@ talc-26:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-17: 
-  bios: 
+talc-17:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3277,13 +3277,13 @@ talc-17:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3293,7 +3293,7 @@ talc-17:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:13
@@ -3301,28 +3301,28 @@ talc-17:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-23: 
-  bios: 
+talc-23:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3333,13 +3333,13 @@ talc-23:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3349,7 +3349,7 @@ talc-23:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:ab
@@ -3357,28 +3357,28 @@ talc-23:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-20: 
-  bios: 
+talc-20:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3389,13 +3389,13 @@ talc-20:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3405,7 +3405,7 @@ talc-20:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:91
@@ -3413,28 +3413,28 @@ talc-20:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-99: 
-  bios: 
+talc-99:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3445,13 +3445,13 @@ talc-99:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3461,7 +3461,7 @@ talc-99:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:56:95
@@ -3469,28 +3469,28 @@ talc-99:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-14: 
-  bios: 
+talc-14:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3501,13 +3501,13 @@ talc-14:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3517,7 +3517,7 @@ talc-14:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:d5
@@ -3525,28 +3525,28 @@ talc-14:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-96: 
-  bios: 
+talc-96:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3557,13 +3557,13 @@ talc-96:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3573,7 +3573,7 @@ talc-96:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:9c:17
@@ -3581,28 +3581,28 @@ talc-96:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-11: 
-  bios: 
+talc-11:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3613,13 +3613,13 @@ talc-11:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3629,7 +3629,7 @@ talc-11:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:bf:83
@@ -3637,28 +3637,28 @@ talc-11:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-134: 
-  bios: 
+talc-134:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3669,13 +3669,13 @@ talc-134:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3685,7 +3685,7 @@ talc-134:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:ab
@@ -3693,28 +3693,28 @@ talc-134:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-128: 
-  bios: 
+talc-128:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3725,13 +3725,13 @@ talc-128:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3741,7 +3741,7 @@ talc-128:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:6f
@@ -3749,28 +3749,28 @@ talc-128:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16867946496
-talc-93: 
-  bios: 
+talc-93:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3781,13 +3781,13 @@ talc-93:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3797,7 +3797,7 @@ talc-93:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:9c:1f
@@ -3805,28 +3805,28 @@ talc-93:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-87: 
-  bios: 
+talc-87:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3837,13 +3837,13 @@ talc-87:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3853,7 +3853,7 @@ talc-87:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:af
@@ -3861,28 +3861,28 @@ talc-87:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-125: 
-  bios: 
+talc-125:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3893,13 +3893,13 @@ talc-125:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3909,7 +3909,7 @@ talc-125:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:73
@@ -3917,28 +3917,28 @@ talc-125:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-131: 
-  bios: 
+talc-131:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -3949,13 +3949,13 @@ talc-131:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -3965,7 +3965,7 @@ talc-131:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:6d
@@ -3973,28 +3973,28 @@ talc-131:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-119: 
-  bios: 
+talc-119:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4005,13 +4005,13 @@ talc-119:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4021,7 +4021,7 @@ talc-119:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:8f:cb
@@ -4029,28 +4029,28 @@ talc-119:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-78: 
-  bios: 
+talc-78:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4061,13 +4061,13 @@ talc-78:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4077,7 +4077,7 @@ talc-78:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:77
@@ -4085,28 +4085,28 @@ talc-78:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-90: 
-  bios: 
+talc-90:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4117,13 +4117,13 @@ talc-90:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4133,7 +4133,7 @@ talc-90:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:e7
@@ -4141,28 +4141,28 @@ talc-90:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-84: 
-  bios: 
+talc-84:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4173,13 +4173,13 @@ talc-84:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4189,7 +4189,7 @@ talc-84:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:41
@@ -4197,28 +4197,28 @@ talc-84:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-122: 
-  bios: 
+talc-122:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4229,13 +4229,13 @@ talc-122:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4245,7 +4245,7 @@ talc-122:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c3:d5
@@ -4253,28 +4253,28 @@ talc-122:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-116: 
-  bios: 
+talc-116:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4285,13 +4285,13 @@ talc-116:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4301,7 +4301,7 @@ talc-116:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:bd
@@ -4309,28 +4309,28 @@ talc-116:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-75: 
-  bios: 
+talc-75:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4341,13 +4341,13 @@ talc-75:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4357,7 +4357,7 @@ talc-75:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:97
@@ -4365,28 +4365,28 @@ talc-75:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-69: 
-  bios: 
+talc-69:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4397,13 +4397,13 @@ talc-69:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4413,7 +4413,7 @@ talc-69:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:dd
@@ -4421,28 +4421,28 @@ talc-69:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-81: 
-  bios: 
+talc-81:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4453,13 +4453,13 @@ talc-81:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4469,7 +4469,7 @@ talc-81:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c3:7f
@@ -4477,28 +4477,28 @@ talc-81:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-107: 
-  bios: 
+talc-107:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4509,13 +4509,13 @@ talc-107:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4525,7 +4525,7 @@ talc-107:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:77
@@ -4533,28 +4533,28 @@ talc-107:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-113: 
-  bios: 
+talc-113:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4565,13 +4565,13 @@ talc-113:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4581,7 +4581,7 @@ talc-113:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:5f
@@ -4589,28 +4589,28 @@ talc-113:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-66: 
-  bios: 
+talc-66:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4621,13 +4621,13 @@ talc-66:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4637,7 +4637,7 @@ talc-66:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:c3
@@ -4645,28 +4645,28 @@ talc-66:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-72: 
-  bios: 
+talc-72:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4677,13 +4677,13 @@ talc-72:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4693,7 +4693,7 @@ talc-72:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:cf
@@ -4701,28 +4701,28 @@ talc-72:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-104: 
-  bios: 
+talc-104:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4733,13 +4733,13 @@ talc-104:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4749,7 +4749,7 @@ talc-104:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:9c:49
@@ -4757,28 +4757,28 @@ talc-104:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-110: 
-  bios: 
+talc-110:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4789,13 +4789,13 @@ talc-110:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4805,7 +4805,7 @@ talc-110:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:bf:97
@@ -4813,28 +4813,28 @@ talc-110:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-8: 
-  bios: 
+talc-8:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4845,13 +4845,13 @@ talc-8:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4861,7 +4861,7 @@ talc-8:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:d9
@@ -4869,28 +4869,28 @@ talc-8:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-101: 
-  bios: 
+talc-101:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4901,13 +4901,13 @@ talc-101:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4917,7 +4917,7 @@ talc-101:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:56:91
@@ -4925,28 +4925,28 @@ talc-101:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-57: 
-  bios: 
+talc-57:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -4957,13 +4957,13 @@ talc-57:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -4973,7 +4973,7 @@ talc-57:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d7
@@ -4981,28 +4981,28 @@ talc-57:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-5: 
-  bios: 
+talc-5:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5013,13 +5013,13 @@ talc-5:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5029,7 +5029,7 @@ talc-5:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:ef
@@ -5037,28 +5037,28 @@ talc-5:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-63: 
-  bios: 
+talc-63:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5069,13 +5069,13 @@ talc-63:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5085,7 +5085,7 @@ talc-63:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:1f
@@ -5093,28 +5093,28 @@ talc-63:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-54: 
-  bios: 
+talc-54:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5125,13 +5125,13 @@ talc-54:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5141,7 +5141,7 @@ talc-54:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:99
@@ -5149,28 +5149,28 @@ talc-54:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-2: 
-  bios: 
+talc-2:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5181,13 +5181,13 @@ talc-2:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5197,7 +5197,7 @@ talc-2:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:dd
@@ -5205,28 +5205,28 @@ talc-2:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-60: 
-  bios: 
+talc-60:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5237,13 +5237,13 @@ talc-60:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5253,7 +5253,7 @@ talc-60:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:9d
@@ -5261,28 +5261,28 @@ talc-60:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-48: 
-  bios: 
+talc-48:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5293,13 +5293,13 @@ talc-48:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5309,7 +5309,7 @@ talc-48:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:63
@@ -5317,28 +5317,28 @@ talc-48:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-45: 
-  bios: 
+talc-45:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5349,13 +5349,13 @@ talc-45:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5365,7 +5365,7 @@ talc-45:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:cb
@@ -5373,28 +5373,28 @@ talc-45:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-51: 
-  bios: 
+talc-51:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5405,13 +5405,13 @@ talc-51:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5421,7 +5421,7 @@ talc-51:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:77
@@ -5429,28 +5429,28 @@ talc-51:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-39: 
-  bios: 
+talc-39:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5461,13 +5461,13 @@ talc-39:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5477,7 +5477,7 @@ talc-39:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:11
@@ -5485,28 +5485,28 @@ talc-39:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-42: 
-  bios: 
+talc-42:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5517,13 +5517,13 @@ talc-42:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5533,7 +5533,7 @@ talc-42:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:2f
@@ -5541,28 +5541,28 @@ talc-42:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-36: 
-  bios: 
+talc-36:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5573,13 +5573,13 @@ talc-36:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5589,7 +5589,7 @@ talc-36:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:1d
@@ -5597,28 +5597,28 @@ talc-36:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-27: 
-  bios: 
+talc-27:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5629,13 +5629,13 @@ talc-27:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5645,7 +5645,7 @@ talc-27:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d3
@@ -5653,28 +5653,28 @@ talc-27:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-33: 
-  bios: 
+talc-33:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5685,13 +5685,13 @@ talc-33:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5701,7 +5701,7 @@ talc-33:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:11
@@ -5709,28 +5709,28 @@ talc-33:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-24: 
-  bios: 
+talc-24:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5741,13 +5741,13 @@ talc-24:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5757,7 +5757,7 @@ talc-24:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:f7
@@ -5765,28 +5765,28 @@ talc-24:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-30: 
-  bios: 
+talc-30:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5797,13 +5797,13 @@ talc-30:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5813,7 +5813,7 @@ talc-30:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b7:8b:3b
@@ -5821,28 +5821,28 @@ talc-30:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-18: 
-  bios: 
+talc-18:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5853,13 +5853,13 @@ talc-18:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5869,7 +5869,7 @@ talc-18:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:d3
@@ -5877,28 +5877,28 @@ talc-18:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-21: 
-  bios: 
+talc-21:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5909,13 +5909,13 @@ talc-21:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5925,7 +5925,7 @@ talc-21:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:31
@@ -5933,28 +5933,28 @@ talc-21:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-15: 
-  bios: 
+talc-15:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 04/24/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -5965,13 +5965,13 @@ talc-15:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -5981,7 +5981,7 @@ talc-15:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b8:b7:df
@@ -5989,28 +5989,28 @@ talc-15:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 12631785472
-talc-12: 
-  bios: 
+talc-12:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6021,13 +6021,13 @@ talc-12:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6037,7 +6037,7 @@ talc-12:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:d7
@@ -6045,28 +6045,28 @@ talc-12:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-97: 
-  bios: 
+talc-97:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6077,13 +6077,13 @@ talc-97:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6093,7 +6093,7 @@ talc-97:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:9c:a3
@@ -6101,28 +6101,28 @@ talc-97:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-129: 
-  bios: 
+talc-129:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6133,13 +6133,13 @@ talc-129:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6149,7 +6149,7 @@ talc-129:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:75
@@ -6157,28 +6157,28 @@ talc-129:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-132: 
-  bios: 
+talc-132:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6189,13 +6189,13 @@ talc-132:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6205,7 +6205,7 @@ talc-132:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:27
@@ -6213,28 +6213,28 @@ talc-132:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-88: 
-  bios: 
+talc-88:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6245,13 +6245,13 @@ talc-88:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6261,7 +6261,7 @@ talc-88:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:57
@@ -6269,28 +6269,28 @@ talc-88:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-94: 
-  bios: 
+talc-94:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6301,13 +6301,13 @@ talc-94:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6317,7 +6317,7 @@ talc-94:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:9b:b5
@@ -6325,28 +6325,28 @@ talc-94:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 14749900800
-talc-126: 
-  bios: 
+talc-126:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6357,13 +6357,13 @@ talc-126:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6373,7 +6373,7 @@ talc-126:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:93
@@ -6381,28 +6381,28 @@ talc-126:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-85: 
-  bios: 
+talc-85:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6413,13 +6413,13 @@ talc-85:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6429,7 +6429,7 @@ talc-85:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:b3
@@ -6437,28 +6437,28 @@ talc-85:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-117: 
-  bios: 
+talc-117:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6469,13 +6469,13 @@ talc-117:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6485,7 +6485,7 @@ talc-117:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:55
@@ -6493,28 +6493,28 @@ talc-117:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-91: 
-  bios: 
+talc-91:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6525,13 +6525,13 @@ talc-91:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6541,7 +6541,7 @@ talc-91:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:f1
@@ -6549,28 +6549,28 @@ talc-91:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-123: 
-  bios: 
+talc-123:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6581,13 +6581,13 @@ talc-123:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6597,7 +6597,7 @@ talc-123:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:bf:d7
@@ -6605,28 +6605,28 @@ talc-123:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-79: 
-  bios: 
+talc-79:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6637,13 +6637,13 @@ talc-79:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6653,7 +6653,7 @@ talc-79:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:a3
@@ -6661,28 +6661,28 @@ talc-79:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-82: 
-  bios: 
+talc-82:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6693,13 +6693,13 @@ talc-82:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6709,7 +6709,7 @@ talc-82:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c0:0f
@@ -6717,28 +6717,28 @@ talc-82:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-114: 
-  bios: 
+talc-114:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6749,13 +6749,13 @@ talc-114:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6765,7 +6765,7 @@ talc-114:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:23
@@ -6773,28 +6773,28 @@ talc-114:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-120: 
-  bios: 
+talc-120:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6805,13 +6805,13 @@ talc-120:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6821,7 +6821,7 @@ talc-120:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c4:8d
@@ -6829,28 +6829,28 @@ talc-120:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-108: 
-  bios: 
+talc-108:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6861,13 +6861,13 @@ talc-108:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6877,7 +6877,7 @@ talc-108:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:13
@@ -6885,28 +6885,28 @@ talc-108:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-76: 
-  bios: 
+talc-76:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6917,13 +6917,13 @@ talc-76:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6933,7 +6933,7 @@ talc-76:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c1:e9
@@ -6941,28 +6941,28 @@ talc-76:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-111: 
-  bios: 
+talc-111:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -6973,13 +6973,13 @@ talc-111:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -6989,7 +6989,7 @@ talc-111:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b1:c0:9d
@@ -6997,28 +6997,28 @@ talc-111:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-9: 
-  bios: 
+talc-9:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7029,13 +7029,13 @@ talc-9:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7045,7 +7045,7 @@ talc-9:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:53
@@ -7053,28 +7053,28 @@ talc-9:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-67: 
-  bios: 
+talc-67:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7085,13 +7085,13 @@ talc-67:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7101,7 +7101,7 @@ talc-67:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:b5
@@ -7109,28 +7109,28 @@ talc-67:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-105: 
-  bios: 
+talc-105:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDT72103
       rev: ST2O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7141,13 +7141,13 @@ talc-105:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7157,7 +7157,7 @@ talc-105:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:9b:a3
@@ -7165,28 +7165,28 @@ talc-105:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-73: 
-  bios: 
+talc-73:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7197,13 +7197,13 @@ talc-73:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7213,7 +7213,7 @@ talc-73:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:73
@@ -7221,28 +7221,28 @@ talc-73:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-102: 
-  bios: 
+talc-102:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7253,13 +7253,13 @@ talc-102:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7269,7 +7269,7 @@ talc-102:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b5:9c:93
@@ -7277,28 +7277,28 @@ talc-102:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-70: 
-  bios: 
+talc-70:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7309,13 +7309,13 @@ talc-70:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7325,7 +7325,7 @@ talc-70:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c2:2b
@@ -7333,28 +7333,28 @@ talc-70:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-58: 
-  bios: 
+talc-58:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDS72103
       rev: JPFO
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7365,13 +7365,13 @@ talc-58:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7381,7 +7381,7 @@ talc-58:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c4:9d
@@ -7389,28 +7389,28 @@ talc-58:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-6: 
-  bios: 
+talc-6:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7421,13 +7421,13 @@ talc-6:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7437,7 +7437,7 @@ talc-6:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:bf:ff
@@ -7445,28 +7445,28 @@ talc-6:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
-talc-64: 
-  bios: 
+talc-64:
+  bios:
     vendor: Phoenix Technologies LTD
     version: V1.05
     release_date: 08/21/2009
-  block_devices: 
-    sda: 
+  block_devices:
+    sda:
       size: 320072933376
       model: Hitachi HDP72503
       rev: GM3O
       device: sda
-  operating_system: 
+  operating_system:
     kernel: 3.2.0-4-amd64
     version: 7.2
     name: debian
-  architecture: 
+  architecture:
     smp_size: 2
     smt_size: 8
     platform_type: x86_64
-  processor: 
+  processor:
     cache_l1i: 32768
     cache_l1d: 32768
     clock_speed: 2500000000
@@ -7477,13 +7477,13 @@ talc-64:
     cache_l2: 6291456
     cache_l3: 0
     instruction_set: x86-64
-  chassis: 
+  chassis:
     product_name: S5393
     manufacturer: TYAN Computer Corporation
-  supported_job_types: 
+  supported_job_types:
     virtual: ivt
-  network_interfaces: 
-    eth0: 
+  network_interfaces:
+    eth0:
       mounted: true
       enabled: true
       rate: 1000000000
@@ -7493,7 +7493,7 @@ talc-64:
       driver: e1000e
       interface: Ethernet
       management: false
-    eth1: 
+    eth1:
       mounted: false
       enabled: false
       mac: 00:e0:81:b2:c5:db
@@ -7501,5 +7501,5 @@ talc-64:
       driver: e1000e
       interface: Ethernet
       management: false
-  main_memory: 
+  main_memory:
     ram_size: 16868012032
