@@ -1,0 +1,8 @@
+{
+  "created_at": "Mon, 20 Apr 2015 12:00:00 GMT",
+  "kavlan": true,
+  "model": "Dell R720",
+  "production": true,
+  "type": "cluster",
+  "uid": "gpuclus"
+}
