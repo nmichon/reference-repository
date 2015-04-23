@@ -16,6 +16,7 @@ stalc1:
   linecards:
     0:
       naming_pattern: "GigabitEthernet1/%LINECARD%/%PORT%"
+      snmp_pattern: "GigabitEthernet1/%LINECARD%/%PORT%"
       kind: node
       rate: 1000000000
       ports:
@@ -57,14 +58,31 @@ stalc1:
         41: talc-35
         42: talc-36
         43: talc-37
+        44: 
+          uid: gpuclus-3
+          port: eth2
+        45: 
+          uid: gpuclus-4
+          port: eth2
+        46: 
+          uid: gpuclus-5
+          port: eth2
+        47: 
+          uid: gpuclus-1
+          port: eth2
+        48: 
+          uid: gpuclus-2
+          port: eth2
     1:
       naming_pattern: "Ten-GigabitEthernet1/%LINECARD%/%PORT%"
+      snmp_pattern: "Ten-GigabitEthernet1/%LINECARD%/%PORT%"
       kind: switch
       rate: 10000000000
       ports:
         2: stalc3
     2:
       naming_pattern: "Ten-GigabitEthernet1/%LINECARD%/%PORT%"
+      snmp_pattern: "Ten-GigabitEthernet1/%LINECARD%/%PORT%"
       kind: router
       rate: 10000000000
       ports:
