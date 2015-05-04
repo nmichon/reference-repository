@@ -43,7 +43,6 @@ gpuclus-1:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth1:
       interface: Ethernet
       driver: bnx2x
@@ -53,7 +52,6 @@ gpuclus-1:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth2:
       interface: Ethernet
       ip: 172.16.67.1
@@ -90,7 +88,6 @@ gpuclus-2:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth1:
       interface: Ethernet
       driver: bnx2x
@@ -100,7 +97,6 @@ gpuclus-2:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth2:
       interface: Ethernet
       ip: 172.16.67.2
@@ -195,7 +191,6 @@ gpuclus-3:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth1:
       interface: Ethernet
       driver: bnx2x
@@ -205,7 +200,6 @@ gpuclus-3:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth2:
       interface: Ethernet
       ip: 172.16.67.3
@@ -263,7 +257,6 @@ gpuclus-4:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth1:
       interface: Ethernet
       driver: bnx2x
@@ -273,7 +266,6 @@ gpuclus-4:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth2:
       interface: Ethernet
       ip: 172.16.67.4
@@ -317,7 +309,6 @@ gpuclus-5:
       mountable: false
       management: false
       enabled: false
-      rate: 10000000000
     eth1:
       interface: Ethernet
       driver: bnx2x
@@ -337,7 +328,6 @@ gpuclus-5:
       mountable: true
       management: false
       enabled: true
-      rate: 10000000000
     eth3:
       interface: Ethernet
       driver: bnx2x

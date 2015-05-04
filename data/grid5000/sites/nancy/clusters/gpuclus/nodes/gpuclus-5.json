@@ -69,7 +69,7 @@
       "mountable": true,
       "mounted": true,
       "network_address": "gpuclus-5.nancy.grid5000.fr",
-      "rate": 10000000000,
+      "rate": 1000000000,
       "vendor": "Broadcom"
     },
     {
