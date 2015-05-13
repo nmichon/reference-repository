@@ -39,6 +39,9 @@ stalc1:
         19: talc-16
         20: talc-17
         21: talc-18
+        23: 
+          uid: gpuclus-6
+          port: eth2
         25: talc-19
         26: talc-20
         27: talc-21

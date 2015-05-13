@@ -2,11 +2,11 @@ site :nancy do |site_uid|
 
   cluster :gpuclus do |cluster_uid|
     model "Dell R720"
-    created_at Time.parse("2015-04-20 12:00 GMT").httpdate
+    created_at Time.parse("2015-05-12 17:00 GMT").httpdate
     kavlan true
     production true
 
-    5.times do |i|
+    6.times do |i|
       node "#{cluster_uid}-#{i+1}" do |node_uid|
 
         supported_job_types({

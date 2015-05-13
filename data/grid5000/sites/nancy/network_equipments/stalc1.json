@@ -79,7 +79,8 @@
 
         },
         {
-
+          "port": "eth2",
+          "uid": "gpuclus-6"
         },
         {
 
