@@ -126,7 +126,7 @@
       "device": "sda",
       "driver": "megaraid_sas",
       "interface": "SCSI",
-      "model": "PERC H330",
+      "model": "PERC H330 Mini",
       "rev": 4.24,
       "size": 299439751168,
       "storage": "HDD",

@@ -376,7 +376,7 @@ gpuclus-6:
     sda:
       device: sda
       size: 299439751168
-      model: PERC H330
+      model: PERC H330 Mini
       rev: 4.24
   processor:
     clock_speed: 2400000000
