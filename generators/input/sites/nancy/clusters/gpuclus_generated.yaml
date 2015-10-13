@@ -13,12 +13,12 @@ gpuclus-1:
       model: PERC H330
       rev: 4.24
   main_memory:
-    ram_size: 67453820928
+    ram_size: 68719476736
   processor:
     clock_speed: 2400000000
     instruction_set: x86-64
     model: Intel Xeon
-    version: E5-2620
+    version: E5-2620 v3
     vendor: Intel
     other_description: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
     cache_l1i: 32768
@@ -126,7 +126,7 @@ gpuclus-2:
     clock_speed: 2400000000
     instruction_set: x86-64
     model: Intel Xeon
-    version: E5-2620
+    version: E5-2620 v3
     vendor: Intel
     other_description: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
     cache_l1i: 32768
@@ -140,7 +140,7 @@ gpuclus-2:
       model: PERC H330
       rev: 4.24
   main_memory:
-    ram_size: 67453820928
+    ram_size: 68719476736
   supported_job_types:
     virtual: ivt
   architecture:
@@ -149,7 +149,7 @@ gpuclus-2:
     platform_type: x86_64
 gpuclus-3:
   main_memory:
-    ram_size: 67453820928
+    ram_size: 68719476736
   chassis:
     serial_number: 9ZTRV42
     manufacturer: Dell Inc.
@@ -158,7 +158,7 @@ gpuclus-3:
     clock_speed: 2400000000
     instruction_set: x86-64
     model: Intel Xeon
-    version: E5-2620
+    version: E5-2620 v3
     vendor: Intel
     other_description: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
     cache_l1i: 32768
@@ -228,7 +228,7 @@ gpuclus-4:
     clock_speed: 2400000000
     instruction_set: x86-64
     model: Intel Xeon
-    version: E5-2620
+    version: E5-2620 v3
     vendor: Intel
     other_description: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
     cache_l1i: 32768
@@ -236,7 +236,7 @@ gpuclus-4:
     cache_l2: 262144
     cache_l3: 15728640
   main_memory:
-    ram_size: 67453820928
+    ram_size: 68719476736
   architecture:
     smp_size: 2
     smt_size: 12
@@ -344,7 +344,7 @@ gpuclus-5:
     clock_speed: 2400000000
     instruction_set: x86-64
     model: Intel Xeon
-    version: E5-2620
+    version: E5-2620 v3
     vendor: Intel
     other_description: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
     cache_l1i: 32768
@@ -366,7 +366,7 @@ gpuclus-5:
     manufacturer: Dell Inc.
     product_name: PowerEdge R730
   main_memory:
-    ram_size: 67453820928
+    ram_size: 68719476736
   bios:
     vendor: Dell Inc.
     version: 1.0
@@ -382,7 +382,7 @@ gpuclus-6:
     clock_speed: 2400000000
     instruction_set: x86-64
     model: Intel Xeon
-    version: E5-2620
+    version: E5-2620 v3
     vendor: Intel
     other_description: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
     cache_l1i: 32768
@@ -390,7 +390,7 @@ gpuclus-6:
     cache_l2: 262144
     cache_l3: 15728640
   main_memory:
-    ram_size: 67453820928
+    ram_size: 68719476736
   bios:
     vendor: Dell Inc.
     version: 1.0
