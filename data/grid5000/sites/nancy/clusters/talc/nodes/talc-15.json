@@ -17,7 +17,7 @@
     "gpu": false
   },
   "main_memory": {
-    "ram_size": 12631785472,
+    "ram_size": 12884901888,
     "virtual_size": null
   },
   "network_adapters": [

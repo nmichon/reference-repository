@@ -894,7 +894,7 @@ talc-16:
       interface: Ethernet
       management: false
   main_memory:
-    ram_size: 14749900800
+    ram_size: 15032385536
 talc-98:
   bios:
     vendor: Phoenix Technologies LTD
@@ -3022,7 +3022,7 @@ talc-29:
       interface: Ethernet
       management: false
   main_memory:
-    ram_size: 14749900800
+    ram_size: 15032385536
 talc-35:
   bios:
     vendor: Phoenix Technologies LTD
@@ -3750,7 +3750,7 @@ talc-128:
       interface: Ethernet
       management: false
   main_memory:
-    ram_size: 16867946496
+    ram_size: 17179869184
 talc-93:
   bios:
     vendor: Phoenix Technologies LTD
@@ -5990,7 +5990,7 @@ talc-15:
       interface: Ethernet
       management: false
   main_memory:
-    ram_size: 12631785472
+    ram_size: 12884901888
 talc-12:
   bios:
     vendor: Phoenix Technologies LTD
@@ -6326,7 +6326,7 @@ talc-94:
       interface: Ethernet
       management: false
   main_memory:
-    ram_size: 14749900800
+    ram_size: 15032385536
 talc-126:
   bios:
     vendor: Phoenix Technologies LTD
