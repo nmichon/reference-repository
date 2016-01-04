@@ -89,6 +89,7 @@ site :nancy do |site_uid|
           :mac              => lookup(node_uid, node_uid, 'network_interfaces', 'eth0', 'mac'),
           :switch           => net_switch_lookup('nancy', 'grisou', node_uid, 'eth0'),
           :switch_port      => net_port_lookup('nancy', 'grisou', node_uid, 'eth0'),
+          :ip               => lookup(node_uid, node_uid, 'network_interfaces', 'eth0', 'ip')
         },
         {
           :interface        => lookup(node_uid, node_uid, 'network_interfaces', 'eth1', 'interface'),
@@ -174,7 +175,7 @@ site :nancy do |site_uid|
           :interface            => 'Ethernet',
           :rate                 => 1.G,
           :network_address      => "#{node_uid}-bmc.#{site_uid}.grid5000.fr",
-          :ip                   => "172.17.72.#{i}",
+          :ip                   => "172.17.72.#{i+1}",
           :mac                  => lookup(node_uid, node_uid, 'network_interfaces', 'bmc', 'mac'),
           :enabled              => true,
           :mounted              => false,
