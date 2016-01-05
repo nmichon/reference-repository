@@ -18,8 +18,8 @@ grisou-2:
       size: 600127266816
       model: ST600MM0088
       rev: TT31
-      timeread: 1265
-      timewrite: 2891
+      timeread: 1251
+      timewrite: 2915
     sdb:
       device: sdb
       size: 600127266816
@@ -30,6 +30,12 @@ grisou-2:
   main_memory:
     ram_size: 135291469824
   network_interfaces:
+    eth4:
+      interface: Ethernet
+      driver: igb
+      mac: 24:6e:96:03:0c:9c
+      mounted: false
+      management: false
     eth0:
       interface: Ethernet
       ip: 172.16.72.2
@@ -38,31 +44,25 @@ grisou-2:
       rate: 10000000000
       mounted: true
       management: false
-    eth1:
-      interface: Ethernet
-      driver: ixgbe
-      mac: 24:6e:96:03:0c:9a
-      mounted: false
-      management: false
-    eth4:
-      interface: Ethernet
-      driver: igb
-      mac: 24:6e:96:03:0c:9c
-      mounted: false
-      management: false
     eth5:
       interface: Ethernet
       driver: igb
       mac: 24:6e:96:03:0c:9d
       mounted: false
       management: false
-    eth7:
+    eth1:
+      interface: Ethernet
+      driver: ixgbe
+      mac: 24:6e:96:03:0c:9a
+      mounted: false
+      management: false
+    eth2:
       interface: Ethernet
       driver: ixgbe
       mac: a0:36:9f:7e:4b:54
       mounted: false
       management: false
-    eth6:
+    eth3:
       interface: Ethernet
       driver: ixgbe
       mac: a0:36:9f:7e:4b:56

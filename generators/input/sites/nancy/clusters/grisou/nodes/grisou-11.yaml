@@ -18,8 +18,8 @@ grisou-11:
       size: 600127266816
       model: ST600MM0088
       rev: TT31
-      timeread: 1286
-      timewrite: 2918
+      timeread: 1287
+      timewrite: 2977
     sdb:
       device: sdb
       size: 600127266816
@@ -56,13 +56,13 @@ grisou-11:
       mac: 24:6e:96:03:0e:ba
       mounted: false
       management: false
-    eth7:
+    eth2:
       interface: Ethernet
       driver: ixgbe
       mac: a0:36:9f:7e:4e:48
       mounted: false
       management: false
-    eth6:
+    eth3:
       interface: Ethernet
       driver: ixgbe
       mac: a0:36:9f:7e:4e:4a
