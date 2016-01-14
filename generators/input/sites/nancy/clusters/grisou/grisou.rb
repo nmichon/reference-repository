@@ -6,7 +6,7 @@ site :nancy do |site_uid|
     kavlan false
     production false
 
-    50.times do |i|
+    51.times do |i|
       node "#{cluster_uid}-#{i+1}" do |node_uid|
 
         performance({
