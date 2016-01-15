@@ -201,14 +201,15 @@
       "snmp_pattern": "Ten-GigabitEthernet1/%LINECARD%/%PORT%"
     },
     {
-      "kind": "router",
+      "kind": "other",
       "naming_pattern": "Ten-GigabitEthernet1/%LINECARD%/%PORT%",
       "ports": [
         {
 
         },
         {
-          "uid": "gw-nancy"
+          "kind": "switch",
+          "uid": "sgravillon1"
         },
         {
           "kind": "other",
