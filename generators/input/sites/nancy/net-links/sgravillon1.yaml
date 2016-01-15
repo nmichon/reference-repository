@@ -76,13 +76,11 @@ sgravillon1:
           uid: fgriffon2
           kind: other
         3:
-          uid: TALC-adm
-          port: stalc1-ipmi
-          kind: virtual
+          uid: stalc1-ipmi
+          kind: other
         4:
-          kind: switch
           uid: stalc1
-          port: stalc1
+          kind: switch
         8:
           port: eth0
           uid: grog

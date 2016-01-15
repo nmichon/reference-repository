@@ -52,13 +52,11 @@
           "uid": "fgriffon2"
         },
         {
-          "kind": "virtual",
-          "port": "stalc1-ipmi",
-          "uid": "TALC-adm"
+          "kind": "other",
+          "uid": "stalc1-ipmi"
         },
         {
           "kind": "switch",
-          "port": "stalc1",
           "uid": "stalc1"
         },
         {
