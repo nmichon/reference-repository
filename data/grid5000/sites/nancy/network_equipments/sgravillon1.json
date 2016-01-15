@@ -213,7 +213,7 @@
           "uid": "sgrelon1"
         },
         {
-          "kind": "virtual",
+          "kind": "switch",
           "uid": "sgraphene3"
         }
       ],

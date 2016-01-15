@@ -177,7 +177,7 @@ sgravillon1:
           uid: sgrelon1
         4:
           uid: sgraphene3
-          kind: virtual
+          kind: switch
     6:
       naming_pattern: "%LINECARD:F%%PORT%"
       snmp_pattern: "F%PORT%"
