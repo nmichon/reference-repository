@@ -192,7 +192,7 @@
     },
     {
       "backplane_bps": 14400000000,
-      "kind": "switch",
+      "kind": "other",
       "model": "J8708A",
       "naming_pattern": "%LINECARD:D%%PORT%",
       "ports": [
@@ -210,7 +210,7 @@
           "uid": "fgriffon2"
         },
         {
-          "uid": "sgrelon1"
+
         },
         {
           "kind": "switch",
