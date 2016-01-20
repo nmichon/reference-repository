@@ -179,6 +179,22 @@
     "vendor": "Intel",
     "version": "E5-2630 v3"
   },
+  "sensors": {
+    "power": {
+      "available": true,
+      "via": {
+        "api": {
+          "metric": "power"
+        },
+        "pdu": [
+          {
+            "port": 13,
+            "uid": "graoully-pdu2"
+          }
+        ]
+      }
+    }
+  },
   "storage_devices": [
     {
       "device": "sda",

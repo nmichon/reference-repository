@@ -224,6 +224,19 @@ site :nancy do |site_uid|
           :gpu  => false
         })
 
+        sensors({
+          :power => {
+            :available => true,
+            :via => { 
+              :api => { :metric => 'power' },
+              :pdu => [ {
+                :uid => lookup('graoully_manual', node_uid, 'pdu', 'pdu_name'),
+                :port => lookup('graoully_manual', node_uid, 'pdu', 'pdu_position'),
+              } ]
+            }
+          }
+        })
+
       end
     end
   end # cluster graoully

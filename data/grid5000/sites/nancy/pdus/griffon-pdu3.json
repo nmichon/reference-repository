@@ -1,12 +1,11 @@
 {
-  "model": "AP8653",
+  "model": "AP7953",
   "sensors": [
     {
       "power": {
-        "per_outlets": true,
+        "per_outlets": false,
         "snmp": {
           "available": true,
-          "outlet_prefix_oid": "iso.3.6.1.4.1.318.1.1.26.9.4.3.1.7",
           "total_oids": [
             "iso.3.6.1.4.1.318.1.1.12.1.16.0"
           ],
@@ -16,6 +15,6 @@
     }
   ],
   "type": "pdu",
-  "uid": "graoully-pdu1",
+  "uid": "griffon-pdu3",
   "vendor": "APC"
 }
