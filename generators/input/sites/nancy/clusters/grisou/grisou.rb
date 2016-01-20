@@ -200,6 +200,19 @@ site :nancy do |site_uid|
         gpu({
           :gpu  => false
         })
+        
+        sensors({
+          :power => {
+            :available => true,
+            :via => { 
+              :api => { :metric => 'power' },
+              :pdu => [ {
+                :uid => lookup('grisou_manual', node_uid, 'pdu', 'pdu_name'),
+                :port => lookup('grisou_manual', node_uid, 'pdu', 'pdu_position'),
+              } ]
+            }
+          }
+        })
 
       end
     end
