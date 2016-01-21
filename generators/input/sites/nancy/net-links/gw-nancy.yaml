@@ -61,8 +61,8 @@ gw-nancy:
   backplane_bps: 1280000000000
   linecards:
     1:
-      naming_pattern: "Gi%LINECARD%/%PORT%"
-      snmp_pattern: "GigabitEthernet%LINECARD%/%PORT%"
+      naming_pattern: "E%LINECARD%/%PORT%"
+      snmp_pattern: "Ethernet%LINECARD%/%PORT%"
       backplane_bps: 1280000000000
       model: N9K-X9464PX
       kind: other
@@ -199,8 +199,8 @@ gw-nancy:
           uid: renater-nancy
           kind: virtual
     2:
-      naming_pattern: "Gi%LINECARD%/%PORT%"
-      snmp_pattern: "GigabitEthernet%LINECARD%/%PORT%"
+      naming_pattern: "E%LINECARD%/%PORT%"
+      snmp_pattern: "Ethernet%LINECARD%/%PORT%"
       backplane_bps: 1280000000000
       model: N9K-X9464PX
       kind: node
@@ -399,8 +399,8 @@ gw-nancy:
           kind: node
           port: eth0
     3:
-      naming_pattern: "Gi%LINECARD%/%PORT%"
-      snmp_pattern: "GigabitEthernet%LINECARD%/%PORT%"
+      naming_pattern: "E%LINECARD%/%PORT%"
+      snmp_pattern: "Ethernet%LINECARD%/%PORT%"
       backplane_bps: 1280000000000
       model: N9K-X9464PX
       kind: node
@@ -599,8 +599,8 @@ gw-nancy:
           kind: node
           port: eth1
     4:
-      naming_pattern: "Gi%LINECARD%/%PORT%"
-      snmp_pattern: "GigabitEthernet%LINECARD%/%PORT%"
+      naming_pattern: "E%LINECARD%/%PORT%"
+      snmp_pattern: "Ethernet%LINECARD%/%PORT%"
       backplane_bps: 1280000000000
       model: N9K-X9464PX
       kind: node
@@ -799,8 +799,8 @@ gw-nancy:
           kind: node
           port: eth2
     5:
-      naming_pattern: "Gi%LINECARD%/%PORT%"
-      snmp_pattern: "GigabitEthernet%LINECARD%/%PORT%"
+      naming_pattern: "E%LINECARD%/%PORT%"
+      snmp_pattern: "Ethernet%LINECARD%/%PORT%"
       backplane_bps: 1280000000000
       model: N9K-X9464PX
       kind: node

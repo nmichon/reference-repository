@@ -10,7 +10,7 @@
       "backplane_bps": 1280000000000,
       "kind": "other",
       "model": "N9K-X9464PX",
-      "naming_pattern": "Gi%LINECARD%/%PORT%",
+      "naming_pattern": "E%LINECARD%/%PORT%",
       "ports": [
         {
 
@@ -223,13 +223,13 @@
         }
       ],
       "rate": 10000000000,
-      "snmp_pattern": "GigabitEthernet%LINECARD%/%PORT%"
+      "snmp_pattern": "Ethernet%LINECARD%/%PORT%"
     },
     {
       "backplane_bps": 1280000000000,
       "kind": "node",
       "model": "N9K-X9464PX",
-      "naming_pattern": "Gi%LINECARD%/%PORT%",
+      "naming_pattern": "E%LINECARD%/%PORT%",
       "ports": [
         {
 
@@ -476,13 +476,13 @@
         }
       ],
       "rate": 10000000000,
-      "snmp_pattern": "GigabitEthernet%LINECARD%/%PORT%"
+      "snmp_pattern": "Ethernet%LINECARD%/%PORT%"
     },
     {
       "backplane_bps": 1280000000000,
       "kind": "node",
       "model": "N9K-X9464PX",
-      "naming_pattern": "Gi%LINECARD%/%PORT%",
+      "naming_pattern": "E%LINECARD%/%PORT%",
       "ports": [
         {
 
@@ -729,13 +729,13 @@
         }
       ],
       "rate": 10000000000,
-      "snmp_pattern": "GigabitEthernet%LINECARD%/%PORT%"
+      "snmp_pattern": "Ethernet%LINECARD%/%PORT%"
     },
     {
       "backplane_bps": 1280000000000,
       "kind": "node",
       "model": "N9K-X9464PX",
-      "naming_pattern": "Gi%LINECARD%/%PORT%",
+      "naming_pattern": "E%LINECARD%/%PORT%",
       "ports": [
         {
 
@@ -982,13 +982,13 @@
         }
       ],
       "rate": 10000000000,
-      "snmp_pattern": "GigabitEthernet%LINECARD%/%PORT%"
+      "snmp_pattern": "Ethernet%LINECARD%/%PORT%"
     },
     {
       "backplane_bps": 1280000000000,
       "kind": "node",
       "model": "N9K-X9464PX",
-      "naming_pattern": "Gi%LINECARD%/%PORT%",
+      "naming_pattern": "E%LINECARD%/%PORT%",
       "ports": [
         {
 
@@ -1235,7 +1235,7 @@
         }
       ],
       "rate": 10000000000,
-      "snmp_pattern": "GigabitEthernet%LINECARD%/%PORT%"
+      "snmp_pattern": "Ethernet%LINECARD%/%PORT%"
     }
   ],
   "model": "Cisco Nexus 9508",
