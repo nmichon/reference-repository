@@ -87,8 +87,8 @@ site :nancy do |site_uid|
           :model            => '82599ES 10-Gigabit SFI/SFP+ Network Connection',
           :driver           => lookup(node_uid, node_uid, 'network_interfaces', 'eth0', 'driver'),
           :mac              => lookup(node_uid, node_uid, 'network_interfaces', 'eth0', 'mac'),
-          :switch           => net_switch_lookup('nancy', 'grimoire', node_uid, 'eth0'),
-          :switch_port      => net_port_lookup('nancy', 'grimoire', node_uid, 'eth0'),
+          :switch           => net_switch_lookup('nancy', 'grimoire', node_uid),
+          :switch_port      => net_port_lookup('nancy', 'grimoire', node_uid),
           :ip               => lookup(node_uid, node_uid, 'network_interfaces', 'eth0', 'ip'),
           :network_address  => "#{node_uid}.#{site_uid}.grid5000.fr"
         },

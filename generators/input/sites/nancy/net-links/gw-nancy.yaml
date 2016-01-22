@@ -107,6 +107,9 @@ gw-nancy:
         13:
           uid: graoully-13
           kind: node
+        14:
+          uid: graoully-14
+          kind: node
         15:
           uid: graoully-15
           kind: node
@@ -240,6 +243,9 @@ gw-nancy:
           kind: node
         22:
           uid: grisou-22
+          kind: node
+        23:
+          uid: grisou-23
           kind: node
         24:
           uid: grisou-24

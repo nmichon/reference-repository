@@ -2,7 +2,7 @@
 grimoire-4:
   architecture:
     smp_size: 2
-    smt_size: 32
+    smt_size: 16
     platform_type: x86_64
   bios:
     vendor: Dell Inc.
@@ -18,7 +18,7 @@ grimoire-4:
       size: 200049647616
       model: PX02SSF020
       rev: A4AF
-      timeread: 266
+      timeread: 268
       timewrite: 1231
     sdb:
       device: sdb
