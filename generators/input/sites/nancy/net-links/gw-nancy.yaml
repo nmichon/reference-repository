@@ -71,115 +71,84 @@ gw-nancy:
         1:
           uid: graoully-1
           kind: node
-          port: eth0
         2:
           uid: graoully-2
           kind: node
-          port: eth0
         3:
           uid: graoully-3
           kind: node
-          port: eth0
         4:
           uid: graoully-4
           kind: node
-          port: eth0
         5:
           uid: graoully-5
           kind: node
-          port: eth0
         6:
           uid: graoully-6
           kind: node
-          port: eth0
         7:
           uid: graoully-7
           kind: node
-          port: eth0
         8:
           uid: graoully-8
           kind: node
-          port: eth0
         9:
           uid: graoully-9
           kind: node
-          port: eth0
         10:
           uid: graoully-10
           kind: node
-          port: eth0
         11:
           uid: graoully-11
           kind: node
-          port: eth0
         12:
           uid: graoully-12
           kind: node
-          port: eth0
         13:
           uid: graoully-13
           kind: node
-          port: eth0
-        14:
-          uid: graoully-14
-          kind: node
-          port: eth0
         15:
           uid: graoully-15
           kind: node
-          port: eth0
         16:
           uid: graoully-16
           kind: node
-          port: eth0
         17:
           uid: graphite-1
           kind: node
-          port: eth0
         27:
           uid: grisou-41
           kind: node
-          port: eth0
         28:
           uid: grisou-42
           kind: node
-          port: eth0
         29:
           uid: grisou-43
           kind: node
-          port: eth0
         30:
           uid: grisou-44
           kind: node
-          port: eth0
         31:
           uid: grisou-45
           kind: node
-          port: eth0
         32:
           uid: grisou-46
           kind: node
-          port: eth0
         33:
           uid: grisou-47
           kind: node
-          port: eth0
         34:
           uid: grisou-48
           kind: node
-          port: eth0
         35:
           uid: grisou-49
           kind: node
-          port: eth0
         36:
           uid: grisou-50
           kind: node
-          port: eth0
         37:
           uid: grisou-51
           kind: node
-          port: eth0
         39:
           uid: grigri
           kind: other
@@ -209,195 +178,144 @@ gw-nancy:
         1:
           uid: grisou-1
           kind: node
-          port: eth0
         2:
           uid: grisou-2
           kind: node
-          port: eth0
         3:
           uid: grisou-3
           kind: node
-          port: eth0
         4:
           uid: grisou-4
           kind: node
-          port: eth0
         5:
           uid: grisou-5
           kind: node
-          port: eth0
         6:
           uid: grisou-6
           kind: node
-          port: eth0
         7:
           uid: grisou-7
           kind: node
-          port: eth0
         8:
           uid: grisou-8
           kind: node
-          port: eth0
         9:
           uid: grisou-9
           kind: node
-          port: eth0
         10:
           uid: grisou-10
           kind: node
-          port: eth0
         11:
           uid: grisou-11
           kind: node
-          port: eth0
         12:
           uid: grisou-12
           kind: node
-          port: eth0
         13:
           uid: grisou-13
           kind: node
-          port: eth0
         14:
           uid: grisou-14
           kind: node
-          port: eth0
         15:
           uid: grisou-15
           kind: node
-          port: eth0
         16:
           uid: grisou-16
           kind: node
-          port: eth0
         17:
           uid: grisou-17
           kind: node
-          port: eth0
         18:
           uid: grisou-18
           kind: node
-          port: eth0
         19:
           uid: grisou-19
           kind: node
-          port: eth0
         20:
           uid: grisou-20
           kind: node
-          port: eth0
         21:
           uid: grisou-21
           kind: node
-          port: eth0
         22:
           uid: grisou-22
           kind: node
-          port: eth0
-        23:
-          uid: grisou-23
-          kind: node
-          port: eth0
         24:
           uid: grisou-24
           kind: node
-          port: eth0
         25:
           uid: grisou-25
           kind: node
-          port: eth0
         26:
           uid: grisou-26
           kind: node
-          port: eth0
         27:
           uid: grisou-27
           kind: node
-          port: eth0
         28:
           uid: grisou-28
           kind: node
-          port: eth0
         29:
           uid: grisou-29
           kind: node
-          port: eth0
         30:
           uid: grisou-30
           kind: node
-          port: eth0
         31:
           uid: grisou-31
           kind: node
-          port: eth0
         32:
           uid: grisou-32
           kind: node
-          port: eth0
         33:
           uid: grisou-33
           kind: node
-          port: eth0
         34:
           uid: grisou-34
           kind: node
-          port: eth0
         35:
           uid: grisou-35
           kind: node
-          port: eth0
         36:
           uid: grisou-36
           kind: node
-          port: eth0
         37:
           uid: grisou-37
           kind: node
-          port: eth0
         38:
           uid: grisou-38
           kind: node
-          port: eth0
         39:
           uid: grisou-39
           kind: node
-          port: eth0
         40:
           uid: grisou-40
           kind: node
-          port: eth0
         41:
           uid: grimoire-1
           kind: node
-          port: eth0
         42:
           uid: grimoire-2
           kind: node
-          port: eth0
         43:
           uid: grimoire-3
           kind: node
-          port: eth0
         44:
           uid: grimoire-4
           kind: node
-          port: eth0
         45:
           uid: grimoire-5
           kind: node
-          port: eth0
         46:
           uid: grimoire-6
           kind: node
-          port: eth0
         47:
           uid: grimoire-7
           kind: node
-          port: eth0
         48:
           uid: grimoire-8
           kind: node
-          port: eth0
     3:
       naming_pattern: "E%LINECARD%/%PORT%"
       snmp_pattern: "Ethernet%LINECARD%/%PORT%"
