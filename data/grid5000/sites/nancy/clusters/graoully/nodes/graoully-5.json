@@ -147,7 +147,7 @@
       "device": "bmc",
       "enabled": true,
       "interface": "Ethernet",
-      "ip": "172.17.72.5",
+      "ip": "172.17.70.5",
       "mac": null,
       "management": true,
       "mountable": false,

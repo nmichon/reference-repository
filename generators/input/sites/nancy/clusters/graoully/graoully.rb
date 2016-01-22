@@ -199,7 +199,7 @@ site :nancy do |site_uid|
           :interface            => 'Ethernet',
           :rate                 => 1.G,
           :network_address      => "#{node_uid}-bmc.#{site_uid}.grid5000.fr",
-          :ip                   => "172.17.72.#{i+1}",
+          :ip                   => "172.17.70.#{i+1}",
           :mac                  => lookup(node_uid, node_uid, 'network_interfaces', 'bmc', 'mac'),
           :enabled              => true,
           :mounted              => false,
