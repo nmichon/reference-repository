@@ -56,6 +56,13 @@ grisou-50:
       mac: a0:36:9f:7e:4c:26
       mounted: false
       management: false
+    eth2:
+      interface: Ethernet
+      driver: ib_ipoib
+      mac: 80:00:00:48:fe:80:00:00:00:00:00:00:e4:1d:2d:03:00:bf:50:71
+      rate: 0
+      mounted: false
+      management: false
   operating_system:
     name: debian
     kernel: 3.16.0-4-amd64
