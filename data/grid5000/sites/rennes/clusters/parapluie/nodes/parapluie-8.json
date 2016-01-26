@@ -113,7 +113,7 @@
       "management": false,
       "mountable": false,
       "mounted": false,
-      "rate": 8000000000,
+      "rate": 10000000000,
       "vendor": "Mellanox",
       "version": "MT25418"
     },
@@ -158,7 +158,7 @@
       "available": true,
       "via": {
         "api": {
-          "metric": "pdu"
+          "metric": "power"
         },
         "pdu": [
           {

@@ -156,8 +156,14 @@
       "per_outlets": true,
       "via": {
         "api": {
-          "metric": "pdu"
+          "metric": "power"
         },
+        "pdu": [
+          {
+            "port": 88,
+            "uid": "wattmetre"
+          }
+        ],
         "www": {
           "url": "http://wattmetre.lyon.grid5000.fr/GetWatts-json.php"
         }

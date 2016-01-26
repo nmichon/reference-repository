@@ -128,6 +128,9 @@
     "power": {
       "available": true,
       "via": {
+        "api": {
+          "metric": "power"
+        },
         "pdu": [
           {
             "uid": "parapide-pdu-1"
@@ -155,7 +158,7 @@
       "driver": "ahci",
       "interface": "SATA",
       "model": "HITACHI HUA7250S",
-      "rev": "AC5A",
+      "rev": "AC4A",
       "size": 500107862016,
       "storage": "HDD",
       "vendor": null

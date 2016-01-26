@@ -190,7 +190,11 @@ site :lyon do |site_uid|
             :available => true,
             :per_outlets => true,
             :via => {
-              :api => { :metric => 'pdu' },
+              :pdu      => [{
+                :uid  => lookup('taurus_manual', node_uid, 'pdu', 'pdu_name'),
+                :port => lookup('taurus_manual', node_uid, 'pdu', 'pdu_position'),
+             }],
+              :api => { :metric => 'power' },
               :www => { :url => 'http://wattmetre.lyon.grid5000.fr/GetWatts-json.php' },
             }
           }

@@ -125,11 +125,11 @@
       "available": true,
       "via": {
         "api": {
-          "metric": "pdu"
+          "metric": "power"
         },
         "pdu": [
           {
-            "port": 16,
+            "port": 18,
             "uid": "parasilo-pdu-2"
           }
         ]
