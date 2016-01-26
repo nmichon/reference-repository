@@ -89,9 +89,7 @@
           "uid": "fgriffon1"
         },
         {
-          "kind": "other",
-          "port": "eth0",
-          "uid": "fgrelon2"
+
         },
         {
           "kind": "other",
@@ -110,9 +108,7 @@
           "uid": "sgraphene4-ipmi"
         },
         {
-          "kind": "other",
-          "port": "eth1",
-          "uid": "fgrelon2"
+
         },
         {
           "kind": "virtual",
@@ -129,19 +125,12 @@
 
         },
         {
-          "kind": "other",
-          "port": "eth0",
-          "uid": "fgrelon1"
+
         },
         {
           "kind": "other",
           "port": "eth1",
           "uid": "fgriffon1"
-        },
-        {
-          "kind": "other",
-          "port": "eth1",
-          "uid": "fgrelon1"
         }
       ],
       "rate": 1000000000,

@@ -97,10 +97,6 @@ sgravillon1:
           port: eth0
           uid: fgriffon1
           kind: other
-        12:
-          port: eth0
-          uid: fgrelon2
-          kind: other
         13:
           uid: sgraphene1-ipmi
           kind: other
@@ -113,28 +109,16 @@ sgravillon1:
         16:
           uid: sgraphene4-ipmi
           kind: other
-        17:
-          port: eth1
-          uid: fgrelon2
-          kind: other
         18:
           uid: LORIA
           kind: virtual
         20:
           uid: sgriffon1-ipmi
           kind: other
-        22:
-          port: eth0
-          kind: other
-          uid: fgrelon1
         23:
           port: eth1
           uid: fgriffon1
           kind: other
-        24:
-          port: eth1
-          kind: other
-          uid: fgrelon1
     2:
       naming_pattern: "%LINECARD:B%%PORT%"
       snmp_pattern: "B%PORT%"
