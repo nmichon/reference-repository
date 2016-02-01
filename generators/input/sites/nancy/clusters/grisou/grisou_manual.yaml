@@ -6,7 +6,7 @@ grisou-1:
 grisou-2:
   pdu:
     pdu_name: grisou-pdu1
-    pdu_position: 2
+    pdu_position: 1
 grisou-3:
   pdu:
     pdu_name: grisou-pdu2
@@ -118,7 +118,7 @@ grisou-29:
 grisou-30:
   pdu:
     pdu_name: grisou-pdu1
-    pdu_position: 15
+    pdu_position: 17
 grisou-31:
   pdu:
     pdu_name: grimoire-pdu1
