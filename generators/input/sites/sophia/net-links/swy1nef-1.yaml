@@ -19,8 +19,8 @@ swy1nef-1:
 
   linecards:
     0:
-      naming_pattern: "%LINECARD%/%PORT%"
-      snmp_pattern: "GigabitEthernet%LINECARD%/%PORT%"
+      naming_pattern: "%LINECARD%*52+%PORT%"
+      snmp_pattern: "ethernet %LINECARD%/g%PORT%"
       kind: node
       rate: 1000000000
       ports:

@@ -40,7 +40,7 @@
       "network_address": "uva-12.sophia.grid5000.fr",
       "rate": 1000000000,
       "switch": "swy1nef-1",
-      "switch_port": "GigabitEthernet0/12",
+      "switch_port": "ethernet 0/g12",
       "vendor": "Broadcom Corporation",
       "version": "NetXtreme II BCM5708 Gigabit Ethernet"
     },

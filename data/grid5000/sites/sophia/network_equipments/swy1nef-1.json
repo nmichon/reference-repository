@@ -5,7 +5,7 @@
   "linecards": [
     {
       "kind": "node",
-      "naming_pattern": "%LINECARD%/%PORT%",
+      "naming_pattern": "%LINECARD%*52+%PORT%",
       "ports": [
         {
 
@@ -306,7 +306,7 @@
         }
       ],
       "rate": 1000000000,
-      "snmp_pattern": "GigabitEthernet%LINECARD%/%PORT%"
+      "snmp_pattern": "ethernet %LINECARD%/g%PORT%"
     }
   ],
   "model": "Powerconnect 6248",
