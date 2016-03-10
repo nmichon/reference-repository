@@ -18,8 +18,8 @@ uvb-40:
       size: 250000000000
       model: WDC WD2502ABYS-1
       rev: 3.0
-      timeread: 2398
-      timewrite: 4637
+      timeread: 2360
+      timewrite: 4626
   supported_job_types:
     virtual: ivt
   main_memory:
@@ -48,14 +48,6 @@ uvb-40:
       rate: 40000000000
       version: MT26428
       mounted: true
-      management: false
-    ib1:
-      interface: InfiniBand
-      driver: mlx4_core
-      guid: 20:00:55:00:41:80:00:00:00:00:00:00:00:24:e8:90:97:ff:ad:dd
-      rate: 10000000000
-      version: MT26428
-      mounted: false
       management: false
   operating_system:
     name: debian

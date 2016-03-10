@@ -2,7 +2,7 @@
 uvb-17:
   architecture:
     smp_size: 2
-    smt_size: 12
+    smt_size: 24
     platform_type: x86_64
   bios:
     vendor: Dell Inc.
@@ -18,8 +18,8 @@ uvb-17:
       size: 250000000000
       model: WDC WD2502ABYS-1
       rev: 3.0
-      timeread: 2432
-      timewrite: 4724
+      timeread: 2572
+      timewrite: 4727
   supported_job_types:
     virtual: ivt
   main_memory:

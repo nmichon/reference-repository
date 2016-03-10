@@ -119,7 +119,7 @@ site :sophia do |site_uid|
           :network_address  => "#{node_uid}-ib0.#{site_uid}.grid5000.fr",
           :guid             => lookup(node_uid, node_uid, 'network_interfaces', 'ib0', 'guid'),
           #:hwid             => lookup('uvb_manual', node_uid, 'network_interfaces', 'ib0', 'hwid'),
-          :switch           => i < 18 ? "ibswy2nef" : "ibswy1nef",
+          :switch           => (i < 18) ? ("ibswy2nef") : ("ibswy1nef"),
           #:ib_switch_card   => lookup('uvb_manual', node_uid, 'network_interfaces', 'ib0', 'line_card'),
           #:ib_switch_card_pos => lookup('uvb_manual', node_uid, 'network_interfaces', 'ib0', 'position'),
         },

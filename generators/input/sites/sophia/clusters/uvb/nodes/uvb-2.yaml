@@ -18,8 +18,8 @@ uvb-2:
       size: 250000000000
       model: WDC WD2502ABYS-1
       rev: 3.0
-      timeread: 2336
-      timewrite: 4617
+      timeread: 2413
+      timewrite: 4718
   supported_job_types:
     virtual: ivt
   main_memory:
@@ -37,24 +37,6 @@ uvb-2:
       interface: Ethernet
       driver: igb
       mac: 00:26:6c:f8:36:91
-      mounted: false
-      management: false
-    ib0:
-      interface: InfiniBand
-      ip: 172.18.132.2
-      ip6: fe80::224:e890:97ff:c671
-      driver: mlx4_core
-      guid: 20:00:55:00:41:80:00:00:00:00:00:00:00:24:e8:90:97:ff:c6:71
-      rate: 40000000000
-      version: MT26428
-      mounted: true
-      management: false
-    ib1:
-      interface: InfiniBand
-      driver: mlx4_core
-      guid: 20:00:55:00:41:80:00:00:00:00:00:00:00:24:e8:90:97:ff:c6:72
-      rate: 10000000000
-      version: MT26428
       mounted: false
       management: false
   operating_system:

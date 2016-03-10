@@ -18,8 +18,8 @@ uvb-26:
       size: 250000000000
       model: WDC WD2502ABYS-1
       rev: 3.0
-      timeread: 2454
-      timewrite: 4756
+      timeread: 2427
+      timewrite: 4747
   supported_job_types:
     virtual: ivt
   main_memory:
@@ -41,19 +41,9 @@ uvb-26:
       management: false
     ib0:
       interface: InfiniBand
-      ip: 172.18.132.26
-      ip6: fe80::224:e890:97ff:c4e5
       driver: mlx4_core
       guid: 20:00:55:00:41:80:00:00:00:00:00:00:00:24:e8:90:97:ff:c4:e5
       rate: 40000000000
-      version: MT26428
-      mounted: true
-      management: false
-    ib1:
-      interface: InfiniBand
-      driver: mlx4_core
-      guid: 20:00:55:00:41:80:00:00:00:00:00:00:00:24:e8:90:97:ff:c4:e6
-      rate: 10000000000
       version: MT26428
       mounted: false
       management: false
