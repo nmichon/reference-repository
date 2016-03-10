@@ -1,0 +1,39 @@
+---
+swy1nef-1:
+  model: Powerconnect 6248
+  kind: switch
+  site: sophia
+  snmp_community: public
+  weathermap:
+    use_cacti: "no"
+  mtu: 
+  vlans:
+    naming_pattern: Vlan%VLANID%
+    snmp_pattern: v%VLANID%
+    "vlan100":
+      administrative: yes
+      addresses:
+        - 172.16.143.250
+  routes: {}
+  backplane_bps: 40000000000
+
+  linecards:
+    0:
+      naming_pattern: "%LINECARD%/%PORT%"
+      snmp_pattern: "GigabitEthernet%LINECARD%/%PORT%"
+      kind: node
+      rate: 1000000000
+      ports:
+        1: uva-1
+        2: uva-2
+        3: uva-3
+        4: uva-4
+        5: uva-5
+        6: uva-6
+        7: uva-7
+        8: uva-8
+        9: uva-9
+        10: uva-10
+        11: uva-11
+        12: uva-12
+        13: uva-13
