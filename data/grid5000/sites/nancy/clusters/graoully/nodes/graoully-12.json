@@ -1,8 +1,6 @@
 {
   "architecture": {
-    "platform_type": "x86_64",
-    "smp_size": 2,
-    "smt_size": 16
+    "platform_type": "x86_64"
   },
   "bios": {
     "release_date": "06/03/2015",
