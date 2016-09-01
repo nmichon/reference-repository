@@ -3,6 +3,7 @@ nodes:
   grimani-<%= i %>:
     network_adapters:
       eth0: 
+        enabled: true
         mounted: true
         mountable: true
         bridged: true
@@ -16,14 +17,17 @@ nodes:
                     24:6e:96:16:5c:30
              )[i-1] %>
       eth1:
+        enabled: false
         mountable: false
         bridged: false
         rate: 10000000000
       eth2:
+        enabled: false
         mountable: false
         bridged: false
         rate: 1000000000
       eth3:
+        enabled: false
         mountable: false
         bridged: false
         rate: 1000000000
