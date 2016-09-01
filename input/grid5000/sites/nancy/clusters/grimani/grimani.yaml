@@ -14,10 +14,14 @@ nodes:
      core_flops: 0
      node_flops: 0
     operating_system:
-      kernel: 3.16.0-4-amd64
-      name: debian
-      version: '8.2'
       release: Jessie
+      cstate_driver: intel_idle
+      cstate_governor: menu
+      cstate_max_id: 2
+      ht_enabled: false
+      pstate_driver: intel_pstate
+      pstate_governor: performance
+      turboboost_enabled: true
     supported_job_types:
       deploy: true
       besteffort: true
@@ -33,4 +37,15 @@ nodes:
     sensors:
       power:
         available: false
-
+    architecture:
+      nb_cores: 12
+      nb_procs: 2
+      nb_threads: 24
+    processor:
+      ht_capable: true
+    storage_devices:
+      sda:
+        interface: SATA
+        driver: megaraid_sas
+        storage: HDD
+        vendor: Seagate
