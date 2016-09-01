@@ -45,7 +45,8 @@
       "mac": "24:6e:96:15:46:8a",
       "management": false,
       "mountable": false,
-      "mounted": false
+      "mounted": false,
+      "rate": 10000000000
     },
     {
       "bridged": false,
@@ -55,7 +56,8 @@
       "mac": "24:6e:96:15:46:8c",
       "management": false,
       "mountable": false,
-      "mounted": false
+      "mounted": false,
+      "rate": 1000000000
     },
     {
       "bridged": false,
@@ -65,7 +67,8 @@
       "mac": "24:6e:96:15:46:8d",
       "management": false,
       "mountable": false,
-      "mounted": false
+      "mounted": false,
+      "rate": 1000000000
     },
     {
       "bridged": false,
